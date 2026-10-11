@@ -9,6 +9,11 @@ import xml.etree.ElementTree as ET
 EPG = Path(__file__).resolve().parent / 'sky_store-epg_xml.xml'
 DAYS = 21
 TZ = ZoneInfo('Europe/Warsaw')
+# Pilot: Fall 2 on Sky Store 3, observed 75 minutes into playback at 13:11 Warsaw time on 11 Oct 2026.
+PILOT_CHANNEL = 'skystorepremiere3.custom'
+PILOT_ANCHOR = datetime(2026, 10, 11, 11, 56, tzinfo=TZ)
+PILOT_PERIOD = timedelta(minutes=98, seconds=10)
+PILOT_RUNTIME = timedelta(minutes=98)
 
 
 def xmltv_time(dt):
@@ -32,17 +37,36 @@ def main():
     for program in originals:
         root.remove(program)
     today = datetime.now(TZ).date()
+    # Generate uninterrupted, individually timed screenings for the pilot channel.
+    window_start = datetime.combine(today, datetime.min.time(), TZ)
+    window_end = datetime.combine(today + timedelta(days=DAYS), datetime.min.time(), TZ)
+    pilot = deepcopy(by_channel[PILOT_CHANNEL])
+    cursor = PILOT_ANCHOR
+    while cursor > window_start:
+        cursor -= PILOT_PERIOD
+    while cursor + PILOT_RUNTIME <= window_start:
+        cursor += PILOT_PERIOD
+    pilot_count = 0
+    while cursor < window_end:
+        program = deepcopy(pilot)
+        program.set('start', xmltv_time(cursor))
+        program.set('stop', xmltv_time(cursor + PILOT_RUNTIME))
+        root.append(program)
+        cursor += PILOT_PERIOD
+        pilot_count += 1
     for day in range(DAYS):
         start = datetime.combine(today + timedelta(days=day), datetime.min.time(), TZ)
         stop = datetime.combine(today + timedelta(days=day + 1), datetime.min.time(), TZ)
         for channel in channels:
+            if channel == PILOT_CHANNEL:
+                continue
             program = deepcopy(by_channel[channel])
             program.set('start', xmltv_time(start))
             program.set('stop', xmltv_time(stop))
             root.append(program)
     ET.indent(tree, space='  ')
     tree.write(EPG, encoding='utf-8', xml_declaration=True)
-    print(f'Updated {len(channels)} channels for {DAYS} days starting {today}.')
+    print(f'Updated {len(channels)} channels for {DAYS} days starting {today}; {pilot_count} Fall 2 screenings.')
 
 
 if __name__ == '__main__':
