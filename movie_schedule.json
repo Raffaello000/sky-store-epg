@@ -43,9 +43,9 @@
       "confidence": "published_runtime_estimate"
     },
     "9": {
-      "runtime_seconds": 6000,
+      "runtime_seconds": 5820,
       "anchor": "2026-10-11T13:22:45+02:00",
-      "confidence": "provisional_100_min"
+      "confidence": "user_verified_runtime"
     },
     "10": {
       "runtime_seconds": 7680,
@@ -58,9 +58,9 @@
       "confidence": "published_runtime_estimate"
     },
     "12": {
-      "runtime_seconds": 6000,
+      "runtime_seconds": 7560,
       "anchor": "2026-10-11T12:23:55+02:00",
-      "confidence": "provisional_100_min"
+      "confidence": "user_verified_runtime"
     },
     "13": {
       "runtime_seconds": 6240,
@@ -98,9 +98,9 @@
       "confidence": "published_runtime_estimate"
     },
     "20": {
-      "runtime_seconds": 6000,
+      "runtime_seconds": 5220,
       "anchor": "2026-10-11T13:18:00+02:00",
-      "confidence": "provisional_100_min"
+      "confidence": "user_verified_runtime"
     },
     "21": {
       "runtime_seconds": 10320,
@@ -113,9 +113,9 @@
       "confidence": "published_runtime_estimate"
     },
     "23": {
-      "runtime_seconds": 6000,
+      "runtime_seconds": 5580,
       "anchor": "2026-10-11T12:49:00+02:00",
-      "confidence": "provisional_100_min"
+      "confidence": "user_verified_runtime"
     },
     "24": {
       "runtime_seconds": 6900,
@@ -128,9 +128,9 @@
       "confidence": "published_runtime_estimate"
     },
     "26": {
-      "runtime_seconds": 6000,
+      "runtime_seconds": 5040,
       "anchor": "2026-10-11T12:55:00+02:00",
-      "confidence": "provisional_100_min"
+      "confidence": "user_verified_runtime"
     },
     "27": {
       "runtime_seconds": 6600,
@@ -138,19 +138,19 @@
       "confidence": "published_runtime_estimate"
     },
     "28": {
-      "runtime_seconds": 6000,
+      "runtime_seconds": 5880,
       "anchor": "2026-10-11T12:53:00+02:00",
-      "confidence": "provisional_100_min"
+      "confidence": "user_verified_runtime"
     },
     "29": {
-      "runtime_seconds": 6000,
+      "runtime_seconds": 5760,
       "anchor": "2026-10-11T12:50:00+02:00",
-      "confidence": "provisional_100_min"
+      "confidence": "user_verified_runtime"
     },
     "30": {
-      "runtime_seconds": 6000,
+      "runtime_seconds": 5100,
       "anchor": "2026-10-11T12:53:00+02:00",
-      "confidence": "provisional_100_min"
+      "confidence": "user_verified_runtime"
     }
   }
 }
