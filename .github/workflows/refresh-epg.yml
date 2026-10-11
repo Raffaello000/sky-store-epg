@@ -1,0 +1,44 @@
+name: Refresh Sky Store EPG
+
+on:
+  schedule:
+    - cron: '0 4 * * *'  # 06:00 Warsaw during daylight saving time
+    - cron: '0 5 * * *'  # 06:00 Warsaw during standard time
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Refresh only at 06:00 Warsaw time (or on manual run)
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          if [ "$EVENT_NAME" != "workflow_dispatch" ] && [ "$(TZ=Europe/Warsaw date +%H)" != "06" ]; then
+            echo 'Not 06:00 in Warsaw; skipping.'
+            echo 'SKIP_REFRESH=true' >> "$GITHUB_ENV"
+          fi
+      - name: Generate rolling EPG
+        if: env.SKIP_REFRESH != 'true'
+        run: python refresh_epg.py
+      - name: Commit refreshed XML
+        if: env.SKIP_REFRESH != 'true'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add sky_store-epg_xml.xml
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh rolling Sky Store EPG'
+            git push
+          else
+            echo 'No EPG changes to commit.'
+          fi
