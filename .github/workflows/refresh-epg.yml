@@ -5,6 +5,10 @@ on:
     - cron: '0 4 * * *'  # 06:00 Warsaw during daylight saving time
     - cron: '0 5 * * *'  # 06:00 Warsaw during standard time
   workflow_dispatch:
+  push:
+    paths:
+      - 'movie_schedule.json'
+      - '.github/workflows/refresh-epg.yml'
 
 permissions:
   contents: write
@@ -23,7 +27,7 @@ jobs:
         env:
           EVENT_NAME: ${{ github.event_name }}
         run: |
-          if [ "$EVENT_NAME" != "workflow_dispatch" ] && [ "$(TZ=Europe/Warsaw date +%H)" != "06" ]; then
+          if [ "$EVENT_NAME" = "schedule" ] && [ "$(TZ=Europe/Warsaw date +%H)" != "06" ]; then
             echo 'Not 06:00 in Warsaw; skipping.'
             echo 'SKIP_REFRESH=true' >> "$GITHUB_ENV"
           fi
