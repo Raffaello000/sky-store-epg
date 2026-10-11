@@ -1,91 +1,62 @@
 #!/usr/bin/env python3
-"""Renew a rolling 21-day XMLTV schedule without changing channel IDs or metadata."""
+"""Regenerate 21-day XMLTV with independently repeating screenings on all 30 channels."""
 from copy import deepcopy
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
+import json
 import xml.etree.ElementTree as ET
 
-EPG = Path(__file__).resolve().parent / 'sky_store-epg_xml.xml'
-DAYS = 21
+BASE = Path(__file__).resolve().parent
+EPG = BASE / 'sky_store-epg_xml.xml'
+CONFIG = BASE / 'movie_schedule.json'
 TZ = ZoneInfo('Europe/Warsaw')
-# Pilot: Fall 2 on Sky Store 3, observed 75 minutes into playback at 13:11 Warsaw time on 11 Oct 2026.
-PILOT_CHANNEL = 'skystorepremiere3.custom'
-PILOT_ANCHOR = datetime(2026, 10, 11, 11, 56, tzinfo=TZ)
-PILOT_PERIOD = timedelta(minutes=98, seconds=10)
-PILOT_RUNTIME = timedelta(minutes=98)
-IDIOTS_CHANNEL = 'skystorepremiere7.custom'
-IDIOTS_ANCHOR = datetime(2026, 10, 11, 12, 36, 30, tzinfo=TZ)
-IDIOTS_PERIOD = timedelta(minutes=98, seconds=10)
-IDIOTS_RUNTIME = timedelta(minutes=98)
-
+DAYS = 21
+GAP = timedelta(seconds=10)
 
 def xmltv_time(dt):
-    return dt.strftime('%Y%m%d%H%M%S %z')
-
+    return dt.astimezone(TZ).strftime('%Y%m%d%H%M%S %z')
 
 def main():
+    cfg = json.loads(CONFIG.read_text(encoding='utf-8'))['channels']
     tree = ET.parse(EPG)
     root = tree.getroot()
     originals = root.findall('programme')
-    if not originals:
-        raise RuntimeError('No programmes found; refusing to overwrite the EPG.')
-    by_channel = {}
-    for program in originals:
-        channel = program.get('channel')
-        if channel and channel not in by_channel:
-            by_channel[channel] = deepcopy(program)
-    channels = [c.get('id') for c in root.findall('channel')]
-    if not channels or any(ch not in by_channel for ch in channels):
-        raise RuntimeError('Missing channel programme; refusing to overwrite the EPG.')
-    for program in originals:
-        root.remove(program)
-    today = datetime.now(TZ).date()
-    # Generate uninterrupted, individually timed screenings for the pilot channel.
-    window_start = datetime.combine(today, datetime.min.time(), TZ)
-    window_end = datetime.combine(today + timedelta(days=DAYS), datetime.min.time(), TZ)
-    pilot = deepcopy(by_channel[PILOT_CHANNEL])
-    cursor = PILOT_ANCHOR
-    while cursor > window_start:
-        cursor -= PILOT_PERIOD
-    while cursor + PILOT_RUNTIME <= window_start:
-        cursor += PILOT_PERIOD
-    pilot_count = 0
-    while cursor < window_end:
-        program = deepcopy(pilot)
-        program.set('start', xmltv_time(cursor))
-        program.set('stop', xmltv_time(cursor + PILOT_RUNTIME))
-        root.append(program)
-        cursor += PILOT_PERIOD
-        pilot_count += 1
-    idiots = deepcopy(by_channel[IDIOTS_CHANNEL])
-    cursor = IDIOTS_ANCHOR
-    while cursor > window_start:
-        cursor -= IDIOTS_PERIOD
-    while cursor + IDIOTS_RUNTIME <= window_start:
-        cursor += IDIOTS_PERIOD
-    idiots_count = 0
-    while cursor < window_end:
-        program = deepcopy(idiots)
-        program.set('start', xmltv_time(cursor))
-        program.set('stop', xmltv_time(cursor + IDIOTS_RUNTIME))
-        root.append(program)
-        cursor += IDIOTS_PERIOD
-        idiots_count += 1
-    for day in range(DAYS):
-        start = datetime.combine(today + timedelta(days=day), datetime.min.time(), TZ)
-        stop = datetime.combine(today + timedelta(days=day + 1), datetime.min.time(), TZ)
-        for channel in channels:
-            if channel in (PILOT_CHANNEL, IDIOTS_CHANNEL):
-                continue
-            program = deepcopy(by_channel[channel])
-            program.set('start', xmltv_time(start))
-            program.set('stop', xmltv_time(stop))
+    templates = {}
+    for item in originals:
+        templates.setdefault(item.get('channel'), deepcopy(item))
+    channel_ids = [x.get('id') for x in root.findall('channel')]
+    if len(channel_ids) != 30 or len(cfg) != 30 or any(ch not in templates for ch in channel_ids):
+        raise RuntimeError('Missing channel or template; refusing to overwrite.')
+    for item in originals:
+        root.remove(item)
+    start_local = datetime.combine(datetime.now(TZ).date(), datetime.min.time(), TZ)
+    end_local = datetime.combine(start_local.date() + timedelta(days=DAYS), datetime.min.time(), TZ)
+    window_start = start_local.astimezone(timezone.utc)
+    window_end = end_local.astimezone(timezone.utc)
+    total = 0
+    for n in range(1, 31):
+        channel = f'skystorepremiere{n}.custom'
+        entry = cfg[str(n)]
+        runtime = timedelta(seconds=int(entry['runtime_seconds']))
+        if runtime.total_seconds() < 1200:
+            raise RuntimeError(f'Invalid runtime on channel {n}')
+        period = runtime + GAP
+        anchor = datetime.fromisoformat(entry['anchor']).astimezone(timezone.utc)
+        steps = (window_start - anchor) // period
+        cursor = anchor + steps * period
+        while cursor + runtime <= window_start:
+            cursor += period
+        while cursor < window_end:
+            program = deepcopy(templates[channel])
+            program.set('start', xmltv_time(cursor))
+            program.set('stop', xmltv_time(cursor + runtime))
             root.append(program)
+            cursor += period
+            total += 1
     ET.indent(tree, space='  ')
     tree.write(EPG, encoding='utf-8', xml_declaration=True)
-    print(f'Updated {len(channels)} channels for {DAYS} days starting {today}; {pilot_count} Fall 2 screenings, {idiots_count} Idiots screenings.')
-
+    print(f'Generated {total} screenings for 30 channels over {DAYS} days.')
 
 if __name__ == '__main__':
     main()
