@@ -14,6 +14,10 @@ PILOT_CHANNEL = 'skystorepremiere3.custom'
 PILOT_ANCHOR = datetime(2026, 10, 11, 11, 56, tzinfo=TZ)
 PILOT_PERIOD = timedelta(minutes=98, seconds=10)
 PILOT_RUNTIME = timedelta(minutes=98)
+IDIOTS_CHANNEL = 'skystorepremiere7.custom'
+IDIOTS_ANCHOR = datetime(2026, 10, 11, 12, 36, 30, tzinfo=TZ)
+IDIOTS_PERIOD = timedelta(minutes=98, seconds=10)
+IDIOTS_RUNTIME = timedelta(minutes=98)
 
 
 def xmltv_time(dt):
@@ -54,11 +58,25 @@ def main():
         root.append(program)
         cursor += PILOT_PERIOD
         pilot_count += 1
+    idiots = deepcopy(by_channel[IDIOTS_CHANNEL])
+    cursor = IDIOTS_ANCHOR
+    while cursor > window_start:
+        cursor -= IDIOTS_PERIOD
+    while cursor + IDIOTS_RUNTIME <= window_start:
+        cursor += IDIOTS_PERIOD
+    idiots_count = 0
+    while cursor < window_end:
+        program = deepcopy(idiots)
+        program.set('start', xmltv_time(cursor))
+        program.set('stop', xmltv_time(cursor + IDIOTS_RUNTIME))
+        root.append(program)
+        cursor += IDIOTS_PERIOD
+        idiots_count += 1
     for day in range(DAYS):
         start = datetime.combine(today + timedelta(days=day), datetime.min.time(), TZ)
         stop = datetime.combine(today + timedelta(days=day + 1), datetime.min.time(), TZ)
         for channel in channels:
-            if channel == PILOT_CHANNEL:
+            if channel in (PILOT_CHANNEL, IDIOTS_CHANNEL):
                 continue
             program = deepcopy(by_channel[channel])
             program.set('start', xmltv_time(start))
@@ -66,7 +84,7 @@ def main():
             root.append(program)
     ET.indent(tree, space='  ')
     tree.write(EPG, encoding='utf-8', xml_declaration=True)
-    print(f'Updated {len(channels)} channels for {DAYS} days starting {today}; {pilot_count} Fall 2 screenings.')
+    print(f'Updated {len(channels)} channels for {DAYS} days starting {today}; {pilot_count} Fall 2 screenings, {idiots_count} Idiots screenings.')
 
 
 if __name__ == '__main__':
