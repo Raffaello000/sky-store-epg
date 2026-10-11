@@ -1,0 +1,156 @@
+{
+  "timezone": "Europe/Warsaw",
+  "note": "10-second gaps. Provisional runtimes are 100-minute placeholders, not verified film durations.",
+  "channels": {
+    "1": {
+      "runtime_seconds": 6360,
+      "anchor": "2026-10-11T12:31:35+02:00",
+      "confidence": "published_runtime_estimate"
+    },
+    "2": {
+      "runtime_seconds": 5520,
+      "anchor": "2026-10-11T12:37:42+02:00",
+      "confidence": "published_runtime_estimate"
+    },
+    "3": {
+      "runtime_seconds": 5880,
+      "anchor": "2026-10-11T11:56:00+02:00",
+      "confidence": "pilot"
+    },
+    "4": {
+      "runtime_seconds": 8460,
+      "anchor": "2026-10-11T11:38:05+02:00",
+      "confidence": "published_runtime_estimate"
+    },
+    "5": {
+      "runtime_seconds": 6360,
+      "anchor": "2026-10-11T13:03:32+02:00",
+      "confidence": "published_runtime_estimate"
+    },
+    "6": {
+      "runtime_seconds": 6720,
+      "anchor": "2026-10-11T12:26:45+02:00",
+      "confidence": "published_runtime_estimate"
+    },
+    "7": {
+      "runtime_seconds": 5880,
+      "anchor": "2026-10-11T12:36:30+02:00",
+      "confidence": "pilot"
+    },
+    "8": {
+      "runtime_seconds": 6060,
+      "anchor": "2026-10-11T12:11:55+02:00",
+      "confidence": "published_runtime_estimate"
+    },
+    "9": {
+      "runtime_seconds": 6000,
+      "anchor": "2026-10-11T13:22:45+02:00",
+      "confidence": "provisional_100_min"
+    },
+    "10": {
+      "runtime_seconds": 7680,
+      "anchor": "2026-10-11T13:44:00+02:00",
+      "confidence": "published_runtime_estimate"
+    },
+    "11": {
+      "runtime_seconds": 5820,
+      "anchor": "2026-10-11T13:26:35+02:00",
+      "confidence": "published_runtime_estimate"
+    },
+    "12": {
+      "runtime_seconds": 6000,
+      "anchor": "2026-10-11T12:23:55+02:00",
+      "confidence": "provisional_100_min"
+    },
+    "13": {
+      "runtime_seconds": 6240,
+      "anchor": "2026-10-11T13:39:40+02:00",
+      "confidence": "published_runtime_estimate"
+    },
+    "14": {
+      "runtime_seconds": 5280,
+      "anchor": "2026-10-11T13:16:35+02:00",
+      "confidence": "published_runtime_estimate"
+    },
+    "15": {
+      "runtime_seconds": 8400,
+      "anchor": "2026-10-11T12:20:25+02:00",
+      "confidence": "published_runtime_estimate"
+    },
+    "16": {
+      "runtime_seconds": 7740,
+      "anchor": "2026-10-11T13:42:35+02:00",
+      "confidence": "published_runtime_estimate"
+    },
+    "17": {
+      "runtime_seconds": 5940,
+      "anchor": "2026-10-11T13:37:00+02:00",
+      "confidence": "published_runtime_estimate"
+    },
+    "18": {
+      "runtime_seconds": 6480,
+      "anchor": "2026-10-11T12:55:00+02:00",
+      "confidence": "published_runtime_estimate"
+    },
+    "19": {
+      "runtime_seconds": 5400,
+      "anchor": "2026-10-11T13:21:00+02:00",
+      "confidence": "published_runtime_estimate"
+    },
+    "20": {
+      "runtime_seconds": 6000,
+      "anchor": "2026-10-11T13:18:00+02:00",
+      "confidence": "provisional_100_min"
+    },
+    "21": {
+      "runtime_seconds": 10320,
+      "anchor": "2026-10-11T12:51:30+02:00",
+      "confidence": "published_runtime_estimate"
+    },
+    "22": {
+      "runtime_seconds": 5700,
+      "anchor": "2026-10-11T13:12:00+02:00",
+      "confidence": "published_runtime_estimate"
+    },
+    "23": {
+      "runtime_seconds": 6000,
+      "anchor": "2026-10-11T12:49:00+02:00",
+      "confidence": "provisional_100_min"
+    },
+    "24": {
+      "runtime_seconds": 6900,
+      "anchor": "2026-10-11T12:17:00+02:00",
+      "confidence": "published_runtime_estimate"
+    },
+    "25": {
+      "runtime_seconds": 5700,
+      "anchor": "2026-10-11T12:54:00+02:00",
+      "confidence": "published_runtime_estimate"
+    },
+    "26": {
+      "runtime_seconds": 6000,
+      "anchor": "2026-10-11T12:55:00+02:00",
+      "confidence": "provisional_100_min"
+    },
+    "27": {
+      "runtime_seconds": 6600,
+      "anchor": "2026-10-11T12:53:00+02:00",
+      "confidence": "published_runtime_estimate"
+    },
+    "28": {
+      "runtime_seconds": 6000,
+      "anchor": "2026-10-11T12:53:00+02:00",
+      "confidence": "provisional_100_min"
+    },
+    "29": {
+      "runtime_seconds": 6000,
+      "anchor": "2026-10-11T12:50:00+02:00",
+      "confidence": "provisional_100_min"
+    },
+    "30": {
+      "runtime_seconds": 6000,
+      "anchor": "2026-10-11T12:53:00+02:00",
+      "confidence": "provisional_100_min"
+    }
+  }
+}
