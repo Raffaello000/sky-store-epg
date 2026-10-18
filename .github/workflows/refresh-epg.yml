@@ -8,6 +8,7 @@ on:
   push:
     paths:
       - 'movie_schedule.json'
+      - 'refresh_epg.py'
       - '.github/workflows/refresh-epg.yml'
 
 permissions:
