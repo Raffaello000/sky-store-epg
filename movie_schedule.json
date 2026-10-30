@@ -1,6 +1,6 @@
 {
   "timezone": "Europe/Warsaw",
-  "note": "One all-day listing per channel; programme title and synopsis updated from IMDb-based research. Technical XMLTV start/stop are required by TiviMate.",
+  "note": "Sky Store Premiere 1–30 lineup transcribed from user-provided screen on 30 October 2026. Existing verified synopses and credits retained where titles match; new titles await verification. One all-day listing per channel.",
   "channels": {
     "1": {
       "runtime_seconds": 6360,
@@ -19,11 +19,11 @@
       "anchor": "2026-10-11T12:37:42+02:00",
       "confidence": "published_runtime_estimate",
       "movie": {
-        "title": "Onslaught",
+        "title": "The Dog Stars",
         "year": 2026,
-        "description": "A unit of genetically enhanced soldiers breaks free in the desert, turning an isolated landscape into a deadly hunting ground. An Army sniper fights to protect her young daughter while facing attackers whose strength and training make escape almost impossible.",
-        "director": "Adam Wingard",
-        "cast": "Adria Arjona, Dan Stevens, Eric Wareheim"
+        "description": "Synopsis and production credits have not yet been verified.",
+        "director": "",
+        "cast": ""
       }
     },
     "3": {
@@ -31,11 +31,11 @@
       "anchor": "2026-10-11T11:56:00+02:00",
       "confidence": "pilot",
       "movie": {
-        "title": "Fall 2: Deadpoint",
+        "title": "Sense and Sensibility",
         "year": 2026,
-        "description": "Still mourning her sister Shiloh, Jax joins her sister's daring friend Luce for a dangerous climb on Thailand's Mount Kwan. A rockslide leaves the women stranded high above the ground on a narrow walkway, forcing Jax to confront grief and fear as they struggle to survive.",
-        "director": "Michael and Peter Spierig",
-        "cast": "Harriet Slater, Arsema Thomas"
+        "description": "Synopsis and production credits have not yet been verified.",
+        "director": "",
+        "cast": ""
       }
     },
     "4": {
@@ -43,11 +43,11 @@
       "anchor": "2026-10-11T11:38:05+02:00",
       "confidence": "published_runtime_estimate",
       "movie": {
-        "title": "By Any Means",
+        "title": "Verity",
         "year": 2026,
-        "description": "In 1960s Mississippi, a young FBI agent investigating the murders of civil rights leaders joins forces with notorious Mafia hitman Greg Scarpa. Their unlikely alliance blurs the boundary between justice and vengeance.",
-        "director": "Elegance Bratton",
-        "cast": "Yahya Abdul-Mateen II, Mark Wahlberg, Nicole Beharie, Josh Lucas, Giancarlo Esposito"
+        "description": "Synopsis and production credits have not yet been verified.",
+        "director": "",
+        "cast": ""
       }
     },
     "5": {
@@ -55,11 +55,11 @@
       "anchor": "2026-10-11T13:03:32+02:00",
       "confidence": "published_runtime_estimate",
       "movie": {
-        "title": "Practical Magic 2",
+        "title": "Forgotten Island",
         "year": 2026,
-        "description": "Generations of women in a family of witches are still haunted by a curse that has doomed their romantic relationships for centuries. To finally break its hold, they must confront painful family secrets and decide what they are prepared to sacrifice for one another.",
-        "director": "Susanne Bier",
-        "cast": "Sandra Bullock, Nicole Kidman, Joey King, Lee Pace, Maisie Williams"
+        "description": "Synopsis and production credits have not yet been verified.",
+        "director": "",
+        "cast": ""
       }
     },
     "6": {
@@ -139,7 +139,7 @@
       "anchor": "2026-10-11T12:23:55+02:00",
       "confidence": "user_verified_runtime",
       "movie": {
-        "title": "Matchbox the Movie",
+        "title": "Matchbox: The Movie",
         "year": 2026,
         "description": "A group of childhood friends reunites after years apart, only to become entangled in a dangerous international conspiracy. Their reunion turns into a fast-moving adventure as they try to outwit their pursuers and prevent a threat with worldwide consequences.",
         "director": "Sam Hargrave",
@@ -283,11 +283,11 @@
       "anchor": "2026-10-11T12:17:00+02:00",
       "confidence": "published_runtime_estimate",
       "movie": {
-        "title": "Moana",
+        "title": "Fall 2: Deadpoint",
         "year": 2026,
-        "description": "Moana answers the ocean's call and sails beyond the reef of Motunui for the first time. Together with the demigod Maui, she crosses dangerous seas on an unforgettable journey to restore prosperity to her people.",
-        "director": "Thomas Kail",
-        "cast": "Catherine Laga'aia, Dwayne Johnson, Rena Owen, Frankie Adams, John Tui"
+        "description": "Still mourning her sister Shiloh, Jax joins her sister's daring friend Luce for a dangerous climb on Thailand's Mount Kwan. A rockslide leaves the women stranded high above the ground on a narrow walkway, forcing Jax to confront grief and fear as they struggle to survive.",
+        "director": "Michael and Peter Spierig",
+        "cast": "Harriet Slater, Arsema Thomas"
       }
     },
     "25": {
@@ -319,11 +319,11 @@
       "anchor": "2026-10-11T12:53:00+02:00",
       "confidence": "published_runtime_estimate",
       "movie": {
-        "title": "Mayday",
+        "title": "Onslaught",
         "year": 2026,
-        "description": "During a covert reconnaissance mission over Soviet territory, American pilot Troy Brennan is forced to eject into the Russian wilderness. His struggle to survive takes an unexpected turn when he encounters a local man, leading to an unlikely relationship across Cold War divides.",
-        "director": "John Francis Daley, Jonathan Goldstein",
-        "cast": "Ryan Reynolds, Kenneth Branagh, Marcin Dorociński"
+        "description": "A unit of genetically enhanced soldiers breaks free in the desert, turning an isolated landscape into a deadly hunting ground. An Army sniper fights to protect her young daughter while facing attackers whose strength and training make escape almost impossible.",
+        "director": "Adam Wingard",
+        "cast": "Adria Arjona, Dan Stevens, Eric Wareheim"
       }
     },
     "28": {
@@ -331,11 +331,11 @@
       "anchor": "2026-10-11T12:53:00+02:00",
       "confidence": "user_verified_runtime",
       "movie": {
-        "title": "The Mongoose",
+        "title": "By Any Means",
         "year": 2026,
-        "description": "Decorated combat veteran Ryan 'Fang' Flanagan speeds away from a murder scene in a powerful Mustang. With danger closing in, his flight becomes a high-stakes pursuit that puts his military skills and instincts to the test.",
-        "director": "Mark Vanselow",
-        "cast": "Liam Neeson, Marisa Tomei, Ving Rhames"
+        "description": "In 1960s Mississippi, a young FBI agent investigating the murders of civil rights leaders joins forces with notorious Mafia hitman Greg Scarpa. Their unlikely alliance blurs the boundary between justice and vengeance.",
+        "director": "Elegance Bratton",
+        "cast": "Yahya Abdul-Mateen II, Mark Wahlberg, Nicole Beharie, Josh Lucas, Giancarlo Esposito"
       }
     },
     "29": {
@@ -343,11 +343,11 @@
       "anchor": "2026-10-11T12:50:00+02:00",
       "confidence": "user_verified_runtime",
       "movie": {
-        "title": "Just Play Dead",
+        "title": "Practical Magic 2",
         "year": 2026,
-        "description": "Criminal mastermind Jack Wolfe plans to fake his own death, claim a fortune in insurance money and frame his wife's lover. But his wife Nora has a rival plan to kill him for real, setting off a dangerous battle of deception and betrayal.",
-        "director": "Martin Campbell",
-        "cast": "Samuel L. Jackson, Eva Green, Eoin Macken"
+        "description": "Generations of women in a family of witches are still haunted by a curse that has doomed their romantic relationships for centuries. To finally break its hold, they must confront painful family secrets and decide what they are prepared to sacrifice for one another.",
+        "director": "Susanne Bier",
+        "cast": "Sandra Bullock, Nicole Kidman, Joey King, Lee Pace, Maisie Williams"
       }
     },
     "30": {
