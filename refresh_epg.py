@@ -31,6 +31,8 @@ def main():
             raise RuntimeError(f"Missing channel {channel}")
         movie = cfg[str(n)]["movie"]
         desc = movie["description"]
+        if movie.get("genre"):
+            desc += "\n\nGenre: " + movie["genre"]
         if movie.get("director"):
             desc += "\n\nDirector: " + movie["director"]
         if movie.get("cast"):
@@ -44,6 +46,9 @@ def main():
             })
             ET.SubElement(p, "title", {"lang": "en"}).text = movie["title"] + " (" + str(movie["year"]) + ")"
             ET.SubElement(p, "desc", {"lang": "en"}).text = desc
+            for genre in movie.get("genre", "").split(", "):
+                if genre:
+                    ET.SubElement(p, "category", {"lang": "en"}).text = genre
     ET.indent(tree, space="  ")
     tree.write(EPG, encoding="utf-8", xml_declaration=True)
     print(f"Generated {DAYS} days of all-day programmes for 30 channels.")
