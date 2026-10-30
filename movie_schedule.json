@@ -1,6 +1,6 @@
 {
   "timezone": "Europe/Warsaw",
-  "note": "Sky Store Premiere 1–30 lineup transcribed from user-provided screen on 30 October 2026. Existing verified synopses and credits retained where titles match; new titles await verification. One all-day listing per channel.",
+  "note": "2026 Sky Store Premiere 1–30 lineup from 30 October screenshot. Detailed plot summaries, cast, directors and genre; genre classifications are descriptive and may be approximate for unreleased films. One all-day listing per channel.",
   "channels": {
     "1": {
       "runtime_seconds": 6360,
@@ -11,7 +11,8 @@
         "year": 2026,
         "description": "The next chapter in the Insidious horror franchise. Details of the supernatural threat and the characters' ordeal have not been reliably confirmed.",
         "director": "",
-        "cast": ""
+        "cast": "",
+        "genre": "Horror, Supernatural Thriller"
       }
     },
     "2": {
@@ -21,9 +22,10 @@
       "movie": {
         "title": "The Dog Stars",
         "year": 2026,
-        "description": "Synopsis and production credits have not yet been verified.",
-        "director": "",
-        "cast": ""
+        "description": "In a world devastated by a catastrophic pandemic, Hig, a pilot living at a remote airfield, has built a guarded existence alongside Bangley, a tough military survivalist. Their fragile safety is disrupted when a mysterious radio transmission offers the possibility of other survivors. Driven by grief, curiosity and the hope of human connection, Hig risks everything to fly beyond the boundaries of his isolated refuge, confronting dangers that test his instinct for survival and his faith in humanity.",
+        "director": "Ridley Scott",
+        "cast": "Jacob Elordi, Josh Brolin, Margaret Qualley, Guy Pearce, Benedict Wong, Allison Janney",
+        "genre": "Science Fiction, Post-Apocalyptic Thriller, Drama"
       }
     },
     "3": {
@@ -33,9 +35,10 @@
       "movie": {
         "title": "Sense and Sensibility",
         "year": 2026,
-        "description": "Synopsis and production credits have not yet been verified.",
-        "director": "",
-        "cast": ""
+        "description": "After their family fortunes change, sisters Elinor and Marianne Dashwood must navigate financial insecurity, social expectations and the uncertain prospect of marriage. Elinor tries to conceal her feelings behind composure and good judgment, while Marianne follows her heart with passionate openness. As each faces disappointment and unexpected possibilities, the sisters discover the value of balancing reason with emotion in this new adaptation of Jane Austen's beloved novel.",
+        "director": "Georgia Oakley",
+        "cast": "Daisy Edgar-Jones, Esmé Creed-Miles, Caitríona Balfe, Frank Dillane, George MacKay, Fiona Shaw",
+        "genre": "Period Drama, Romance"
       }
     },
     "4": {
@@ -45,9 +48,10 @@
       "movie": {
         "title": "Verity",
         "year": 2026,
-        "description": "Synopsis and production credits have not yet been verified.",
-        "director": "",
-        "cast": ""
+        "description": "Struggling writer Lowen Ashleigh accepts a lucrative assignment to finish the books of bestselling author Verity Crawford, who can no longer complete her work. Staying at the isolated Crawford family estate, Lowen grows close to Verity's husband Jeremy but discovers a disturbing manuscript that appears to reveal terrible family secrets. As attraction, suspicion and fear intensify, Lowen struggles to distinguish truth from fiction and to understand whether the danger surrounding her is real or carefully orchestrated.",
+        "director": "Michael Showalter",
+        "cast": "Anne Hathaway, Dakota Johnson, Josh Hartnett, Ismael Cruz Córdova, Brady Wagner",
+        "genre": "Psychological Thriller, Mystery, Drama"
       }
     },
     "5": {
@@ -57,9 +61,10 @@
       "movie": {
         "title": "Forgotten Island",
         "year": 2026,
-        "description": "Synopsis and production credits have not yet been verified.",
-        "director": "",
-        "cast": ""
+        "description": "Lifelong best friends Jo and Raissa are preparing to take different paths after high school when a mysterious portal transports them to Nakali, a fantastical island inhabited by creatures from Filipino mythology. With the help of an unlikely weredog companion named Raww, they face extraordinary friends and enemies, including the terrifying Manananggal. But escaping the island comes at a heartbreaking price: the memories of their friendship. The pair must find another way home before they forget each other forever.",
+        "director": "Joel Crawford, Januel Mercado",
+        "cast": "H.E.R., Liza Soberano, Dave Franco, Jenny Slate, Manny Jacinto, Dolly de Leon, Jo Koy, Ronny Chieng, Lea Salonga",
+        "genre": "Animation, Fantasy, Adventure, Family"
       }
     },
     "6": {
@@ -71,7 +76,8 @@
         "year": 2026,
         "description": "In 1933 Oregon, Samuel Murphy is separated from his daughter and sent to a brutal work camp. Offered an early release in exchange for smuggling gold through treacherous wilderness, he faces betrayal and danger on a desperate journey home.",
         "director": "Padraic McKinley",
-        "cast": "Ethan Hawke, Russell Crowe, Julia Jones, Austin Amelio, Avi Nash"
+        "cast": "Ethan Hawke, Russell Crowe, Julia Jones, Austin Amelio, Avi Nash",
+        "genre": "Historical Drama, Survival Thriller"
       }
     },
     "7": {
@@ -83,7 +89,8 @@
         "year": 2026,
         "description": "Maya, a witty and thoughtful nurse, finds herself swept into a powerful romance that changes the direction of her life. What begins as an intense personal connection leads her toward experiences and choices she could never have anticipated.",
         "director": "Rachel Morrison",
-        "cast": "Margaret Qualley, Aaron Pierre"
+        "cast": "Margaret Qualley, Aaron Pierre",
+        "genre": "Romance, Drama"
       }
     },
     "8": {
@@ -95,7 +102,8 @@
         "year": 2026,
         "description": "A determined group of twelve-year-olds devises an outrageous plan to escape ordinary life and stay at summer camp forever. Their plans collide with Bob, a relentless veteran camp counselor who refuses to let them get away.",
         "director": "Michael Lewen",
-        "cast": "Johnny Knoxville, Benjamin Pajak, Aaron D. Harris, Isa Bernal Steiner"
+        "cast": "Johnny Knoxville, Benjamin Pajak, Aaron D. Harris, Isa Bernal Steiner",
+        "genre": "Family Comedy, Adventure"
       }
     },
     "9": {
@@ -107,7 +115,8 @@
         "year": 2026,
         "description": "A successful lawyer races across London after her son is abducted. Following increasingly cryptic orders from an unknown caller, she must make urgent decisions under pressure while trying to uncover who is controlling the ordeal.",
         "director": "Kevin Macdonald",
-        "cast": "Gal Gadot"
+        "cast": "Gal Gadot",
+        "genre": "Action Thriller, Crime"
       }
     },
     "10": {
@@ -119,7 +128,8 @@
         "year": 2026,
         "description": "In plague-ravaged medieval England, a peasant's defiance of King Richard II ignites a rebellion against royal tyranny. As the revolt spreads, an ordinary man becomes an unexpected symbol of resistance in a struggle for justice.",
         "director": "Paul Greengrass",
-        "cast": "Andrew Garfield"
+        "cast": "Andrew Garfield",
+        "genre": "Historical Drama, Action"
       }
     },
     "11": {
@@ -131,7 +141,8 @@
         "year": 2026,
         "description": "Three friends hope to relax and reconnect during a luxurious spa getaway. Their plans unravel when a notoriously chaotic fourth friend joins them, transforming the peaceful weekend into a series of unpredictable mishaps.",
         "director": "Jon Lucas, Scott Moore",
-        "cast": "Leslie Mann, Isla Fisher, Michelle Buteau, Anna Faris"
+        "cast": "Leslie Mann, Isla Fisher, Michelle Buteau, Anna Faris",
+        "genre": "Comedy"
       }
     },
     "12": {
@@ -143,7 +154,8 @@
         "year": 2026,
         "description": "A group of childhood friends reunites after years apart, only to become entangled in a dangerous international conspiracy. Their reunion turns into a fast-moving adventure as they try to outwit their pursuers and prevent a threat with worldwide consequences.",
         "director": "Sam Hargrave",
-        "cast": "John Cena, Jessica Biel, Arturo Castro"
+        "cast": "John Cena, Jessica Biel, Arturo Castro",
+        "genre": "Action, Adventure, Comedy"
       }
     },
     "13": {
@@ -155,7 +167,8 @@
         "year": 2026,
         "description": "A quiet horticulturist leads a secret double life as a professional assassin. When he befriends someone who has witnessed police corruption, his carefully concealed identity and the safety of those around him are placed at risk.",
         "director": "Babak Najafi",
-        "cast": "Dennis Quaid, Jean Reno, Sky Katz"
+        "cast": "Dennis Quaid, Jean Reno, Sky Katz",
+        "genre": "Action Thriller, Crime"
       }
     },
     "14": {
@@ -167,7 +180,8 @@
         "year": 2026,
         "description": "On an isolated Scottish island, siblings Isla and Sandy live according to their own unusual customs, hunting birds and speaking of mythical beings. Their secluded existence is disrupted when an awkward government official arrives with orders to relocate them.",
         "director": "",
-        "cast": "Domhnall Gleeson, Gayle Rankin, Grant O'Rourke"
+        "cast": "Domhnall Gleeson, Gayle Rankin, Grant O'Rourke",
+        "genre": "Comedy, Drama"
       }
     },
     "15": {
@@ -179,7 +193,8 @@
         "year": 2026,
         "description": "Four years after everyone forgot Peter Parker, he lives alone and devotes himself entirely to protecting New York as Spider-Man. As a troubling pattern of crimes emerges, the pressure of his double life brings unexpected changes and draws him toward a formidable new adversary.",
         "director": "Destin Daniel Cretton",
-        "cast": "Tom Holland, Zendaya, Sadie Sink, Jacob Batalon, Jon Bernthal, Mark Ruffalo"
+        "cast": "Tom Holland, Zendaya, Sadie Sink, Jacob Batalon, Jon Bernthal, Mark Ruffalo",
+        "genre": "Superhero, Action, Adventure, Science Fiction"
       }
     },
     "16": {
@@ -191,7 +206,8 @@
         "year": 2026,
         "description": "The remarkable true story of Tenzing Norgay, whose life and determination led him to the summit of Mount Everest. Alongside Edmund Hillary, he attempts a historic ascent while confronting the physical danger and human cost of high-altitude exploration.",
         "director": "Jennifer Peedom",
-        "cast": "Genden Phuntsok, Tom Hiddleston, Willem Dafoe, Caitríona Balfe"
+        "cast": "Genden Phuntsok, Tom Hiddleston, Willem Dafoe, Caitríona Balfe",
+        "genre": "Biography, Adventure, Drama"
       }
     },
     "17": {
@@ -203,7 +219,8 @@
         "year": 2026,
         "description": "A mysterious cosmic event transports the Platt family's ordinary suburban neighborhood to an unknown and hostile place. Surrounded by extraordinary dangers, the family must set aside its internal tensions and work together to find a way to survive.",
         "director": "David Robert Mitchell",
-        "cast": "Anne Hathaway, Ewan McGregor, Maisy Stella, Christian Convery"
+        "cast": "Anne Hathaway, Ewan McGregor, Maisy Stella, Christian Convery",
+        "genre": "Science Fiction, Mystery, Thriller"
       }
     },
     "18": {
@@ -215,7 +232,8 @@
         "year": 2026,
         "description": "Kara Zor-El embarks on an interstellar journey after a violent encounter strikes close to home. Accompanied by an unlikely ally, she pursues justice and revenge across dangerous worlds while confronting the consequences of her past.",
         "director": "Craig Gillespie",
-        "cast": "Milly Alcock, Matthias Schoenaerts, Eve Ridley, David Krumholtz, Jason Momoa"
+        "cast": "Milly Alcock, Matthias Schoenaerts, Eve Ridley, David Krumholtz, Jason Momoa",
+        "genre": "Superhero, Science Fiction, Action, Adventure"
       }
     },
     "19": {
@@ -227,7 +245,8 @@
         "year": 2026,
         "description": "Two down-on-their-luck drivers accept what should be a straightforward job transporting a wealthy teenager to rehabilitation. Their unruly passenger derails the journey, dragging them into an increasingly outrageous series of criminal and drug-fueled disasters.",
         "director": "Macon Blair",
-        "cast": "Dave Franco, O'Shea Jackson Jr., Mason Thames"
+        "cast": "Dave Franco, O'Shea Jackson Jr., Mason Thames",
+        "genre": "Crime Comedy"
       }
     },
     "20": {
@@ -239,7 +258,8 @@
         "year": 2026,
         "description": "Wile E. Coyote takes the Acme Corporation to court after years of its defective products failing him in his relentless pursuit of the Road Runner. A human lawyer becomes involved in an unusual legal battle that brings cartoon chaos into the real world.",
         "director": "Dave Green",
-        "cast": "Will Forte, John Cena, Lana Condor"
+        "cast": "Will Forte, John Cena, Lana Condor",
+        "genre": "Animation, Live-Action Comedy, Adventure"
       }
     },
     "21": {
@@ -251,7 +271,8 @@
         "year": 2026,
         "description": "After the fall of Troy, Odysseus begins an epic voyage home to Ithaca and his waiting family. His journey takes him through seas ruled by gods and monsters, where encounters with a Cyclops, enchantresses and deadly temptations test his ingenuity and endurance.",
         "director": "Christopher Nolan",
-        "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Lupita Nyong'o, Zendaya, Charlize Theron"
+        "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Lupita Nyong'o, Zendaya, Charlize Theron",
+        "genre": "Epic, Adventure, Fantasy, Drama"
       }
     },
     "22": {
@@ -263,7 +284,8 @@
         "year": 2026,
         "description": "A group of young holidaymakers heads to a sunny island expecting carefree fun. Their getaway turns into a nightmare when the island's hidden dangers threaten the group, forcing them to fight for survival.",
         "director": "Christopher Smith",
-        "cast": "Rose Williams, Tim McInnerny, Avani Gregg"
+        "cast": "Rose Williams, Tim McInnerny, Avani Gregg",
+        "genre": "Horror, Thriller"
       }
     },
     "23": {
@@ -275,7 +297,8 @@
         "year": 2026,
         "description": "A recently widowed pregnant woman visits her late husband's family estate hoping to find support. Instead, she is forced to remain there until she gives birth, and disturbing events make her question whether her unborn child is cursed or her own mind is betraying her.",
         "director": "",
-        "cast": "Nathalie Emmanuel, Claire Forlani, Ben Cura"
+        "cast": "Nathalie Emmanuel, Claire Forlani, Ben Cura",
+        "genre": "Psychological Horror, Thriller"
       }
     },
     "24": {
@@ -287,7 +310,8 @@
         "year": 2026,
         "description": "Still mourning her sister Shiloh, Jax joins her sister's daring friend Luce for a dangerous climb on Thailand's Mount Kwan. A rockslide leaves the women stranded high above the ground on a narrow walkway, forcing Jax to confront grief and fear as they struggle to survive.",
         "director": "Michael and Peter Spierig",
-        "cast": "Harriet Slater, Arsema Thomas"
+        "cast": "Harriet Slater, Arsema Thomas",
+        "genre": "Fantasy, Adventure, Family, Musical"
       }
     },
     "25": {
@@ -299,7 +323,8 @@
         "year": 2026,
         "description": "Graduate researcher Olive Smith impulsively kisses the notoriously intimidating Dr. Adam Carlsen to convince a friend she has moved on. The two agree to pretend they are dating, but their carefully calculated arrangement becomes complicated when real feelings begin to develop.",
         "director": "Claire Scanlon",
-        "cast": "Lili Reinhart, Tom Bateman, Rachel Marsh"
+        "cast": "Lili Reinhart, Tom Bateman, Rachel Marsh",
+        "genre": "Romantic Comedy"
       }
     },
     "26": {
@@ -311,7 +336,8 @@
         "year": 2026,
         "description": "After the war in Afghanistan, a group of disillusioned former CIA operatives heads to Tehran in pursuit of a lucrative score. Their dangerous plan unfolds amid divided loyalties and the risks of operating in hostile territory.",
         "director": "Guy Moshe",
-        "cast": "Liam Neeson, Zachary Levi"
+        "cast": "Liam Neeson, Zachary Levi",
+        "genre": "Action Thriller, Crime"
       }
     },
     "27": {
@@ -323,7 +349,8 @@
         "year": 2026,
         "description": "A unit of genetically enhanced soldiers breaks free in the desert, turning an isolated landscape into a deadly hunting ground. An Army sniper fights to protect her young daughter while facing attackers whose strength and training make escape almost impossible.",
         "director": "Adam Wingard",
-        "cast": "Adria Arjona, Dan Stevens, Eric Wareheim"
+        "cast": "Adria Arjona, Dan Stevens, Eric Wareheim",
+        "genre": "Action, Science Fiction, Horror"
       }
     },
     "28": {
@@ -335,7 +362,8 @@
         "year": 2026,
         "description": "In 1960s Mississippi, a young FBI agent investigating the murders of civil rights leaders joins forces with notorious Mafia hitman Greg Scarpa. Their unlikely alliance blurs the boundary between justice and vengeance.",
         "director": "Elegance Bratton",
-        "cast": "Yahya Abdul-Mateen II, Mark Wahlberg, Nicole Beharie, Josh Lucas, Giancarlo Esposito"
+        "cast": "Yahya Abdul-Mateen II, Mark Wahlberg, Nicole Beharie, Josh Lucas, Giancarlo Esposito",
+        "genre": "Crime Thriller, Drama"
       }
     },
     "29": {
@@ -347,7 +375,8 @@
         "year": 2026,
         "description": "Generations of women in a family of witches are still haunted by a curse that has doomed their romantic relationships for centuries. To finally break its hold, they must confront painful family secrets and decide what they are prepared to sacrifice for one another.",
         "director": "Susanne Bier",
-        "cast": "Sandra Bullock, Nicole Kidman, Joey King, Lee Pace, Maisie Williams"
+        "cast": "Sandra Bullock, Nicole Kidman, Joey King, Lee Pace, Maisie Williams",
+        "genre": "Fantasy, Romance, Comedy"
       }
     },
     "30": {
@@ -359,7 +388,8 @@
         "year": 2026,
         "description": "At nineteen, Anthony Bourdain travels to Provincetown and unexpectedly enters the hectic world of a professional restaurant kitchen. The friendships, pressure and exhilaration of his first culinary experiences set him on a path that will change his life.",
         "director": "Matt Johnson",
-        "cast": "Dominic Sessa, Antonio Banderas, Emilia Jones"
+        "cast": "Dominic Sessa, Antonio Banderas, Emilia Jones",
+        "genre": "Biography, Drama"
       }
     }
   }
