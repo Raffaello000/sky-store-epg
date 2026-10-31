@@ -120,14 +120,6 @@
     <display-name>SKY STORE 30</display-name>
     <display-name>Sky Store Premiere 30 HD</display-name>
   </channel>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere1.custom">
-    <title lang="en">Insidious: Out of the Further (2026)</title>
-    <desc lang="en">The next chapter in the Insidious horror franchise. Details of the supernatural threat and the characters' ordeal have not been reliably confirmed.
-
-Genre: Horror, Supernatural Thriller</desc>
-    <category lang="en">Horror</category>
-    <category lang="en">Supernatural Thriller</category>
-  </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere1.custom">
     <title lang="en">Insidious: Out of the Further (2026)</title>
     <desc lang="en">The next chapter in the Insidious horror franchise. Details of the supernatural threat and the characters' ordeal have not been reliably confirmed.
@@ -288,17 +280,13 @@ Genre: Horror, Supernatural Thriller</desc>
     <category lang="en">Horror</category>
     <category lang="en">Supernatural Thriller</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere2.custom">
-    <title lang="en">The Dog Stars (2026)</title>
-    <desc lang="en">In a world devastated by a catastrophic pandemic, Hig, a pilot living at a remote airfield, has built a guarded existence alongside Bangley, a tough military survivalist. Their fragile safety is disrupted when a mysterious radio transmission offers the possibility of other survivors. Driven by grief, curiosity and the hope of human connection, Hig risks everything to fly beyond the boundaries of his isolated refuge, confronting dangers that test his instinct for survival and his faith in humanity.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere1.custom">
+    <title lang="en">Insidious: Out of the Further (2026)</title>
+    <desc lang="en">The next chapter in the Insidious horror franchise. Details of the supernatural threat and the characters' ordeal have not been reliably confirmed.
 
-Genre: Science Fiction, Post-Apocalyptic Thriller, Drama
-
-Director: Ridley Scott
-Cast: Jacob Elordi, Josh Brolin, Margaret Qualley, Guy Pearce, Benedict Wong, Allison Janney</desc>
-    <category lang="en">Science Fiction</category>
-    <category lang="en">Post-Apocalyptic Thriller</category>
-    <category lang="en">Drama</category>
+Genre: Horror, Supernatural Thriller</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Supernatural Thriller</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere2.custom">
     <title lang="en">The Dog Stars (2026)</title>
@@ -540,16 +528,17 @@ Cast: Jacob Elordi, Josh Brolin, Margaret Qualley, Guy Pearce, Benedict Wong, Al
     <category lang="en">Post-Apocalyptic Thriller</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere3.custom">
-    <title lang="en">Sense and Sensibility (2026)</title>
-    <desc lang="en">After their family fortunes change, sisters Elinor and Marianne Dashwood must navigate financial insecurity, social expectations and the uncertain prospect of marriage. Elinor tries to conceal her feelings behind composure and good judgment, while Marianne follows her heart with passionate openness. As each faces disappointment and unexpected possibilities, the sisters discover the value of balancing reason with emotion in this new adaptation of Jane Austen's beloved novel.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere2.custom">
+    <title lang="en">The Dog Stars (2026)</title>
+    <desc lang="en">In a world devastated by a catastrophic pandemic, Hig, a pilot living at a remote airfield, has built a guarded existence alongside Bangley, a tough military survivalist. Their fragile safety is disrupted when a mysterious radio transmission offers the possibility of other survivors. Driven by grief, curiosity and the hope of human connection, Hig risks everything to fly beyond the boundaries of his isolated refuge, confronting dangers that test his instinct for survival and his faith in humanity.
 
-Genre: Period Drama, Romance
+Genre: Science Fiction, Post-Apocalyptic Thriller, Drama
 
-Director: Georgia Oakley
-Cast: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríona Balfe, Frank Dillane, George MacKay, Fiona Shaw</desc>
-    <category lang="en">Period Drama</category>
-    <category lang="en">Romance</category>
+Director: Ridley Scott
+Cast: Jacob Elordi, Josh Brolin, Margaret Qualley, Guy Pearce, Benedict Wong, Allison Janney</desc>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Post-Apocalyptic Thriller</category>
+    <category lang="en">Drama</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere3.custom">
     <title lang="en">Sense and Sensibility (2026)</title>
@@ -771,17 +760,16 @@ Cast: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríona Balfe, Frank Dillane, Geo
     <category lang="en">Period Drama</category>
     <category lang="en">Romance</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere4.custom">
-    <title lang="en">Verity (2026)</title>
-    <desc lang="en">Struggling writer Lowen Ashleigh accepts a lucrative assignment to finish the books of bestselling author Verity Crawford, who can no longer complete her work. Staying at the isolated Crawford family estate, Lowen grows close to Verity's husband Jeremy but discovers a disturbing manuscript that appears to reveal terrible family secrets. As attraction, suspicion and fear intensify, Lowen struggles to distinguish truth from fiction and to understand whether the danger surrounding her is real or carefully orchestrated.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere3.custom">
+    <title lang="en">Sense and Sensibility (2026)</title>
+    <desc lang="en">After their family fortunes change, sisters Elinor and Marianne Dashwood must navigate financial insecurity, social expectations and the uncertain prospect of marriage. Elinor tries to conceal her feelings behind composure and good judgment, while Marianne follows her heart with passionate openness. As each faces disappointment and unexpected possibilities, the sisters discover the value of balancing reason with emotion in this new adaptation of Jane Austen's beloved novel.
 
-Genre: Psychological Thriller, Mystery, Drama
+Genre: Period Drama, Romance
 
-Director: Michael Showalter
-Cast: Anne Hathaway, Dakota Johnson, Josh Hartnett, Ismael Cruz Córdova, Brady Wagner</desc>
-    <category lang="en">Psychological Thriller</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Drama</category>
+Director: Georgia Oakley
+Cast: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríona Balfe, Frank Dillane, George MacKay, Fiona Shaw</desc>
+    <category lang="en">Period Drama</category>
+    <category lang="en">Romance</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere4.custom">
     <title lang="en">Verity (2026)</title>
@@ -1023,18 +1011,17 @@ Cast: Anne Hathaway, Dakota Johnson, Josh Hartnett, Ismael Cruz Córdova, Brady 
     <category lang="en">Mystery</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere5.custom">
-    <title lang="en">Forgotten Island (2026)</title>
-    <desc lang="en">Lifelong best friends Jo and Raissa are preparing to take different paths after high school when a mysterious portal transports them to Nakali, a fantastical island inhabited by creatures from Filipino mythology. With the help of an unlikely weredog companion named Raww, they face extraordinary friends and enemies, including the terrifying Manananggal. But escaping the island comes at a heartbreaking price: the memories of their friendship. The pair must find another way home before they forget each other forever.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere4.custom">
+    <title lang="en">Verity (2026)</title>
+    <desc lang="en">Struggling writer Lowen Ashleigh accepts a lucrative assignment to finish the books of bestselling author Verity Crawford, who can no longer complete her work. Staying at the isolated Crawford family estate, Lowen grows close to Verity's husband Jeremy but discovers a disturbing manuscript that appears to reveal terrible family secrets. As attraction, suspicion and fear intensify, Lowen struggles to distinguish truth from fiction and to understand whether the danger surrounding her is real or carefully orchestrated.
 
-Genre: Animation, Fantasy, Adventure, Family
+Genre: Psychological Thriller, Mystery, Drama
 
-Director: Joel Crawford, Januel Mercado
-Cast: H.E.R., Liza Soberano, Dave Franco, Jenny Slate, Manny Jacinto, Dolly de Leon, Jo Koy, Ronny Chieng, Lea Salonga</desc>
-    <category lang="en">Animation</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Family</category>
+Director: Michael Showalter
+Cast: Anne Hathaway, Dakota Johnson, Josh Hartnett, Ismael Cruz Córdova, Brady Wagner</desc>
+    <category lang="en">Psychological Thriller</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Drama</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere5.custom">
     <title lang="en">Forgotten Island (2026)</title>
@@ -1296,16 +1283,18 @@ Cast: H.E.R., Liza Soberano, Dave Franco, Jenny Slate, Manny Jacinto, Dolly de L
     <category lang="en">Adventure</category>
     <category lang="en">Family</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere6.custom">
-    <title lang="en">The Weight (2026)</title>
-    <desc lang="en">In 1933 Oregon, Samuel Murphy is separated from his daughter and sent to a brutal work camp. Offered an early release in exchange for smuggling gold through treacherous wilderness, he faces betrayal and danger on a desperate journey home.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere5.custom">
+    <title lang="en">Forgotten Island (2026)</title>
+    <desc lang="en">Lifelong best friends Jo and Raissa are preparing to take different paths after high school when a mysterious portal transports them to Nakali, a fantastical island inhabited by creatures from Filipino mythology. With the help of an unlikely weredog companion named Raww, they face extraordinary friends and enemies, including the terrifying Manananggal. But escaping the island comes at a heartbreaking price: the memories of their friendship. The pair must find another way home before they forget each other forever.
 
-Genre: Historical Drama, Survival Thriller
+Genre: Animation, Fantasy, Adventure, Family
 
-Director: Padraic McKinley
-Cast: Ethan Hawke, Russell Crowe, Julia Jones, Austin Amelio, Avi Nash</desc>
-    <category lang="en">Historical Drama</category>
-    <category lang="en">Survival Thriller</category>
+Director: Joel Crawford, Januel Mercado
+Cast: H.E.R., Liza Soberano, Dave Franco, Jenny Slate, Manny Jacinto, Dolly de Leon, Jo Koy, Ronny Chieng, Lea Salonga</desc>
+    <category lang="en">Animation</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Family</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere6.custom">
     <title lang="en">The Weight (2026)</title>
@@ -1527,16 +1516,16 @@ Cast: Ethan Hawke, Russell Crowe, Julia Jones, Austin Amelio, Avi Nash</desc>
     <category lang="en">Historical Drama</category>
     <category lang="en">Survival Thriller</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere7.custom">
-    <title lang="en">Love of Your Life (2026)</title>
-    <desc lang="en">Maya, a witty and thoughtful nurse, finds herself swept into a powerful romance that changes the direction of her life. What begins as an intense personal connection leads her toward experiences and choices she could never have anticipated.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere6.custom">
+    <title lang="en">The Weight (2026)</title>
+    <desc lang="en">In 1933 Oregon, Samuel Murphy is separated from his daughter and sent to a brutal work camp. Offered an early release in exchange for smuggling gold through treacherous wilderness, he faces betrayal and danger on a desperate journey home.
 
-Genre: Romance, Drama
+Genre: Historical Drama, Survival Thriller
 
-Director: Rachel Morrison
-Cast: Margaret Qualley, Aaron Pierre</desc>
-    <category lang="en">Romance</category>
-    <category lang="en">Drama</category>
+Director: Padraic McKinley
+Cast: Ethan Hawke, Russell Crowe, Julia Jones, Austin Amelio, Avi Nash</desc>
+    <category lang="en">Historical Drama</category>
+    <category lang="en">Survival Thriller</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere7.custom">
     <title lang="en">Love of Your Life (2026)</title>
@@ -1758,16 +1747,16 @@ Cast: Margaret Qualley, Aaron Pierre</desc>
     <category lang="en">Romance</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere8.custom">
-    <title lang="en">Tiny Fugitives (2026)</title>
-    <desc lang="en">A determined group of twelve-year-olds devises an outrageous plan to escape ordinary life and stay at summer camp forever. Their plans collide with Bob, a relentless veteran camp counselor who refuses to let them get away.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere7.custom">
+    <title lang="en">Love of Your Life (2026)</title>
+    <desc lang="en">Maya, a witty and thoughtful nurse, finds herself swept into a powerful romance that changes the direction of her life. What begins as an intense personal connection leads her toward experiences and choices she could never have anticipated.
 
-Genre: Family Comedy, Adventure
+Genre: Romance, Drama
 
-Director: Michael Lewen
-Cast: Johnny Knoxville, Benjamin Pajak, Aaron D. Harris, Isa Bernal Steiner</desc>
-    <category lang="en">Family Comedy</category>
-    <category lang="en">Adventure</category>
+Director: Rachel Morrison
+Cast: Margaret Qualley, Aaron Pierre</desc>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere8.custom">
     <title lang="en">Tiny Fugitives (2026)</title>
@@ -1989,16 +1978,16 @@ Cast: Johnny Knoxville, Benjamin Pajak, Aaron D. Harris, Isa Bernal Steiner</des
     <category lang="en">Family Comedy</category>
     <category lang="en">Adventure</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere9.custom">
-    <title lang="en">Runner (2026)</title>
-    <desc lang="en">A successful lawyer races across London after her son is abducted. Following increasingly cryptic orders from an unknown caller, she must make urgent decisions under pressure while trying to uncover who is controlling the ordeal.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere8.custom">
+    <title lang="en">Tiny Fugitives (2026)</title>
+    <desc lang="en">A determined group of twelve-year-olds devises an outrageous plan to escape ordinary life and stay at summer camp forever. Their plans collide with Bob, a relentless veteran camp counselor who refuses to let them get away.
 
-Genre: Action Thriller, Crime
+Genre: Family Comedy, Adventure
 
-Director: Kevin Macdonald
-Cast: Gal Gadot</desc>
-    <category lang="en">Action Thriller</category>
-    <category lang="en">Crime</category>
+Director: Michael Lewen
+Cast: Johnny Knoxville, Benjamin Pajak, Aaron D. Harris, Isa Bernal Steiner</desc>
+    <category lang="en">Family Comedy</category>
+    <category lang="en">Adventure</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere9.custom">
     <title lang="en">Runner (2026)</title>
@@ -2220,16 +2209,16 @@ Cast: Gal Gadot</desc>
     <category lang="en">Action Thriller</category>
     <category lang="en">Crime</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere10.custom">
-    <title lang="en">The Uprising (2026)</title>
-    <desc lang="en">In plague-ravaged medieval England, a peasant's defiance of King Richard II ignites a rebellion against royal tyranny. As the revolt spreads, an ordinary man becomes an unexpected symbol of resistance in a struggle for justice.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere9.custom">
+    <title lang="en">Runner (2026)</title>
+    <desc lang="en">A successful lawyer races across London after her son is abducted. Following increasingly cryptic orders from an unknown caller, she must make urgent decisions under pressure while trying to uncover who is controlling the ordeal.
 
-Genre: Historical Drama, Action
+Genre: Action Thriller, Crime
 
-Director: Paul Greengrass
-Cast: Andrew Garfield</desc>
-    <category lang="en">Historical Drama</category>
-    <category lang="en">Action</category>
+Director: Kevin Macdonald
+Cast: Gal Gadot</desc>
+    <category lang="en">Action Thriller</category>
+    <category lang="en">Crime</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere10.custom">
     <title lang="en">The Uprising (2026)</title>
@@ -2451,15 +2440,16 @@ Cast: Andrew Garfield</desc>
     <category lang="en">Historical Drama</category>
     <category lang="en">Action</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere11.custom">
-    <title lang="en">Spa Weekend (2026)</title>
-    <desc lang="en">Three friends hope to relax and reconnect during a luxurious spa getaway. Their plans unravel when a notoriously chaotic fourth friend joins them, transforming the peaceful weekend into a series of unpredictable mishaps.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere10.custom">
+    <title lang="en">The Uprising (2026)</title>
+    <desc lang="en">In plague-ravaged medieval England, a peasant's defiance of King Richard II ignites a rebellion against royal tyranny. As the revolt spreads, an ordinary man becomes an unexpected symbol of resistance in a struggle for justice.
 
-Genre: Comedy
+Genre: Historical Drama, Action
 
-Director: Jon Lucas, Scott Moore
-Cast: Leslie Mann, Isla Fisher, Michelle Buteau, Anna Faris</desc>
-    <category lang="en">Comedy</category>
+Director: Paul Greengrass
+Cast: Andrew Garfield</desc>
+    <category lang="en">Historical Drama</category>
+    <category lang="en">Action</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere11.custom">
     <title lang="en">Spa Weekend (2026)</title>
@@ -2661,16 +2651,14 @@ Director: Jon Lucas, Scott Moore
 Cast: Leslie Mann, Isla Fisher, Michelle Buteau, Anna Faris</desc>
     <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere12.custom">
-    <title lang="en">Matchbox: The Movie (2026)</title>
-    <desc lang="en">A group of childhood friends reunites after years apart, only to become entangled in a dangerous international conspiracy. Their reunion turns into a fast-moving adventure as they try to outwit their pursuers and prevent a threat with worldwide consequences.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere11.custom">
+    <title lang="en">Spa Weekend (2026)</title>
+    <desc lang="en">Three friends hope to relax and reconnect during a luxurious spa getaway. Their plans unravel when a notoriously chaotic fourth friend joins them, transforming the peaceful weekend into a series of unpredictable mishaps.
 
-Genre: Action, Adventure, Comedy
+Genre: Comedy
 
-Director: Sam Hargrave
-Cast: John Cena, Jessica Biel, Arturo Castro</desc>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
+Director: Jon Lucas, Scott Moore
+Cast: Leslie Mann, Isla Fisher, Michelle Buteau, Anna Faris</desc>
     <category lang="en">Comedy</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere12.custom">
@@ -2913,16 +2901,17 @@ Cast: John Cena, Jessica Biel, Arturo Castro</desc>
     <category lang="en">Adventure</category>
     <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere13.custom">
-    <title lang="en">The Florist (2026)</title>
-    <desc lang="en">A quiet horticulturist leads a secret double life as a professional assassin. When he befriends someone who has witnessed police corruption, his carefully concealed identity and the safety of those around him are placed at risk.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere12.custom">
+    <title lang="en">Matchbox: The Movie (2026)</title>
+    <desc lang="en">A group of childhood friends reunites after years apart, only to become entangled in a dangerous international conspiracy. Their reunion turns into a fast-moving adventure as they try to outwit their pursuers and prevent a threat with worldwide consequences.
 
-Genre: Action Thriller, Crime
+Genre: Action, Adventure, Comedy
 
-Director: Babak Najafi
-Cast: Dennis Quaid, Jean Reno, Sky Katz</desc>
-    <category lang="en">Action Thriller</category>
-    <category lang="en">Crime</category>
+Director: Sam Hargrave
+Cast: John Cena, Jessica Biel, Arturo Castro</desc>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere13.custom">
     <title lang="en">The Florist (2026)</title>
@@ -3144,14 +3133,16 @@ Cast: Dennis Quaid, Jean Reno, Sky Katz</desc>
     <category lang="en">Action Thriller</category>
     <category lang="en">Crime</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere14.custom">
-    <title lang="en">The Incomer (2026)</title>
-    <desc lang="en">On an isolated Scottish island, siblings Isla and Sandy live according to their own unusual customs, hunting birds and speaking of mythical beings. Their secluded existence is disrupted when an awkward government official arrives with orders to relocate them.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere13.custom">
+    <title lang="en">The Florist (2026)</title>
+    <desc lang="en">A quiet horticulturist leads a secret double life as a professional assassin. When he befriends someone who has witnessed police corruption, his carefully concealed identity and the safety of those around him are placed at risk.
 
-Genre: Comedy, Drama
-Cast: Domhnall Gleeson, Gayle Rankin, Grant O'Rourke</desc>
-    <category lang="en">Comedy</category>
-    <category lang="en">Drama</category>
+Genre: Action Thriller, Crime
+
+Director: Babak Najafi
+Cast: Dennis Quaid, Jean Reno, Sky Katz</desc>
+    <category lang="en">Action Thriller</category>
+    <category lang="en">Crime</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere14.custom">
     <title lang="en">The Incomer (2026)</title>
@@ -3333,18 +3324,14 @@ Cast: Domhnall Gleeson, Gayle Rankin, Grant O'Rourke</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere15.custom">
-    <title lang="en">Spider-Man: Brand New Day (2026)</title>
-    <desc lang="en">Four years after everyone forgot Peter Parker, he lives alone and devotes himself entirely to protecting New York as Spider-Man. As a troubling pattern of crimes emerges, the pressure of his double life brings unexpected changes and draws him toward a formidable new adversary.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere14.custom">
+    <title lang="en">The Incomer (2026)</title>
+    <desc lang="en">On an isolated Scottish island, siblings Isla and Sandy live according to their own unusual customs, hunting birds and speaking of mythical beings. Their secluded existence is disrupted when an awkward government official arrives with orders to relocate them.
 
-Genre: Superhero, Action, Adventure, Science Fiction
-
-Director: Destin Daniel Cretton
-Cast: Tom Holland, Zendaya, Sadie Sink, Jacob Batalon, Jon Bernthal, Mark Ruffalo</desc>
-    <category lang="en">Superhero</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Science Fiction</category>
+Genre: Comedy, Drama
+Cast: Domhnall Gleeson, Gayle Rankin, Grant O'Rourke</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere15.custom">
     <title lang="en">Spider-Man: Brand New Day (2026)</title>
@@ -3606,17 +3593,18 @@ Cast: Tom Holland, Zendaya, Sadie Sink, Jacob Batalon, Jon Bernthal, Mark Ruffal
     <category lang="en">Adventure</category>
     <category lang="en">Science Fiction</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere16.custom">
-    <title lang="en">Tenzing (2026)</title>
-    <desc lang="en">The remarkable true story of Tenzing Norgay, whose life and determination led him to the summit of Mount Everest. Alongside Edmund Hillary, he attempts a historic ascent while confronting the physical danger and human cost of high-altitude exploration.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere15.custom">
+    <title lang="en">Spider-Man: Brand New Day (2026)</title>
+    <desc lang="en">Four years after everyone forgot Peter Parker, he lives alone and devotes himself entirely to protecting New York as Spider-Man. As a troubling pattern of crimes emerges, the pressure of his double life brings unexpected changes and draws him toward a formidable new adversary.
 
-Genre: Biography, Adventure, Drama
+Genre: Superhero, Action, Adventure, Science Fiction
 
-Director: Jennifer Peedom
-Cast: Genden Phuntsok, Tom Hiddleston, Willem Dafoe, Caitríona Balfe</desc>
-    <category lang="en">Biography</category>
+Director: Destin Daniel Cretton
+Cast: Tom Holland, Zendaya, Sadie Sink, Jacob Batalon, Jon Bernthal, Mark Ruffalo</desc>
+    <category lang="en">Superhero</category>
+    <category lang="en">Action</category>
     <category lang="en">Adventure</category>
-    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere16.custom">
     <title lang="en">Tenzing (2026)</title>
@@ -3858,17 +3846,17 @@ Cast: Genden Phuntsok, Tom Hiddleston, Willem Dafoe, Caitríona Balfe</desc>
     <category lang="en">Adventure</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere17.custom">
-    <title lang="en">The End of Oak Street (2026)</title>
-    <desc lang="en">A mysterious cosmic event transports the Platt family's ordinary suburban neighborhood to an unknown and hostile place. Surrounded by extraordinary dangers, the family must set aside its internal tensions and work together to find a way to survive.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere16.custom">
+    <title lang="en">Tenzing (2026)</title>
+    <desc lang="en">The remarkable true story of Tenzing Norgay, whose life and determination led him to the summit of Mount Everest. Alongside Edmund Hillary, he attempts a historic ascent while confronting the physical danger and human cost of high-altitude exploration.
 
-Genre: Science Fiction, Mystery, Thriller
+Genre: Biography, Adventure, Drama
 
-Director: David Robert Mitchell
-Cast: Anne Hathaway, Ewan McGregor, Maisy Stella, Christian Convery</desc>
-    <category lang="en">Science Fiction</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
+Director: Jennifer Peedom
+Cast: Genden Phuntsok, Tom Hiddleston, Willem Dafoe, Caitríona Balfe</desc>
+    <category lang="en">Biography</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Drama</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere17.custom">
     <title lang="en">The End of Oak Street (2026)</title>
@@ -4110,18 +4098,17 @@ Cast: Anne Hathaway, Ewan McGregor, Maisy Stella, Christian Convery</desc>
     <category lang="en">Mystery</category>
     <category lang="en">Thriller</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere18.custom">
-    <title lang="en">Supergirl (2026)</title>
-    <desc lang="en">Kara Zor-El embarks on an interstellar journey after a violent encounter strikes close to home. Accompanied by an unlikely ally, she pursues justice and revenge across dangerous worlds while confronting the consequences of her past.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere17.custom">
+    <title lang="en">The End of Oak Street (2026)</title>
+    <desc lang="en">A mysterious cosmic event transports the Platt family's ordinary suburban neighborhood to an unknown and hostile place. Surrounded by extraordinary dangers, the family must set aside its internal tensions and work together to find a way to survive.
 
-Genre: Superhero, Science Fiction, Action, Adventure
+Genre: Science Fiction, Mystery, Thriller
 
-Director: Craig Gillespie
-Cast: Milly Alcock, Matthias Schoenaerts, Eve Ridley, David Krumholtz, Jason Momoa</desc>
-    <category lang="en">Superhero</category>
+Director: David Robert Mitchell
+Cast: Anne Hathaway, Ewan McGregor, Maisy Stella, Christian Convery</desc>
     <category lang="en">Science Fiction</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere18.custom">
     <title lang="en">Supergirl (2026)</title>
@@ -4383,15 +4370,18 @@ Cast: Milly Alcock, Matthias Schoenaerts, Eve Ridley, David Krumholtz, Jason Mom
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere19.custom">
-    <title lang="en">Idiots (2026)</title>
-    <desc lang="en">Two down-on-their-luck drivers accept what should be a straightforward job transporting a wealthy teenager to rehabilitation. Their unruly passenger derails the journey, dragging them into an increasingly outrageous series of criminal and drug-fueled disasters.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere18.custom">
+    <title lang="en">Supergirl (2026)</title>
+    <desc lang="en">Kara Zor-El embarks on an interstellar journey after a violent encounter strikes close to home. Accompanied by an unlikely ally, she pursues justice and revenge across dangerous worlds while confronting the consequences of her past.
 
-Genre: Crime Comedy
+Genre: Superhero, Science Fiction, Action, Adventure
 
-Director: Macon Blair
-Cast: Dave Franco, O'Shea Jackson Jr., Mason Thames</desc>
-    <category lang="en">Crime Comedy</category>
+Director: Craig Gillespie
+Cast: Milly Alcock, Matthias Schoenaerts, Eve Ridley, David Krumholtz, Jason Momoa</desc>
+    <category lang="en">Superhero</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere19.custom">
     <title lang="en">Idiots (2026)</title>
@@ -4593,17 +4583,15 @@ Director: Macon Blair
 Cast: Dave Franco, O'Shea Jackson Jr., Mason Thames</desc>
     <category lang="en">Crime Comedy</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere20.custom">
-    <title lang="en">Coyote vs. Acme (2026)</title>
-    <desc lang="en">Wile E. Coyote takes the Acme Corporation to court after years of its defective products failing him in his relentless pursuit of the Road Runner. A human lawyer becomes involved in an unusual legal battle that brings cartoon chaos into the real world.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere19.custom">
+    <title lang="en">Idiots (2026)</title>
+    <desc lang="en">Two down-on-their-luck drivers accept what should be a straightforward job transporting a wealthy teenager to rehabilitation. Their unruly passenger derails the journey, dragging them into an increasingly outrageous series of criminal and drug-fueled disasters.
 
-Genre: Animation, Live-Action Comedy, Adventure
+Genre: Crime Comedy
 
-Director: Dave Green
-Cast: Will Forte, John Cena, Lana Condor</desc>
-    <category lang="en">Animation</category>
-    <category lang="en">Live-Action Comedy</category>
-    <category lang="en">Adventure</category>
+Director: Macon Blair
+Cast: Dave Franco, O'Shea Jackson Jr., Mason Thames</desc>
+    <category lang="en">Crime Comedy</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere20.custom">
     <title lang="en">Coyote vs. Acme (2026)</title>
@@ -4845,18 +4833,17 @@ Cast: Will Forte, John Cena, Lana Condor</desc>
     <category lang="en">Live-Action Comedy</category>
     <category lang="en">Adventure</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere21.custom">
-    <title lang="en">The Odyssey (2026)</title>
-    <desc lang="en">After the fall of Troy, Odysseus begins an epic voyage home to Ithaca and his waiting family. His journey takes him through seas ruled by gods and monsters, where encounters with a Cyclops, enchantresses and deadly temptations test his ingenuity and endurance.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere20.custom">
+    <title lang="en">Coyote vs. Acme (2026)</title>
+    <desc lang="en">Wile E. Coyote takes the Acme Corporation to court after years of its defective products failing him in his relentless pursuit of the Road Runner. A human lawyer becomes involved in an unusual legal battle that brings cartoon chaos into the real world.
 
-Genre: Epic, Adventure, Fantasy, Drama
+Genre: Animation, Live-Action Comedy, Adventure
 
-Director: Christopher Nolan
-Cast: Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Lupita Nyong'o, Zendaya, Charlize Theron</desc>
-    <category lang="en">Epic</category>
+Director: Dave Green
+Cast: Will Forte, John Cena, Lana Condor</desc>
+    <category lang="en">Animation</category>
+    <category lang="en">Live-Action Comedy</category>
     <category lang="en">Adventure</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Drama</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere21.custom">
     <title lang="en">The Odyssey (2026)</title>
@@ -5118,16 +5105,18 @@ Cast: Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Lupita Nyong'o, 
     <category lang="en">Fantasy</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere22.custom">
-    <title lang="en">Spider Island (2026)</title>
-    <desc lang="en">A group of young holidaymakers heads to a sunny island expecting carefree fun. Their getaway turns into a nightmare when the island's hidden dangers threaten the group, forcing them to fight for survival.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere21.custom">
+    <title lang="en">The Odyssey (2026)</title>
+    <desc lang="en">After the fall of Troy, Odysseus begins an epic voyage home to Ithaca and his waiting family. His journey takes him through seas ruled by gods and monsters, where encounters with a Cyclops, enchantresses and deadly temptations test his ingenuity and endurance.
 
-Genre: Horror, Thriller
+Genre: Epic, Adventure, Fantasy, Drama
 
-Director: Christopher Smith
-Cast: Rose Williams, Tim McInnerny, Avani Gregg</desc>
-    <category lang="en">Horror</category>
-    <category lang="en">Thriller</category>
+Director: Christopher Nolan
+Cast: Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Lupita Nyong'o, Zendaya, Charlize Theron</desc>
+    <category lang="en">Epic</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Drama</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere22.custom">
     <title lang="en">Spider Island (2026)</title>
@@ -5349,13 +5338,15 @@ Cast: Rose Williams, Tim McInnerny, Avani Gregg</desc>
     <category lang="en">Horror</category>
     <category lang="en">Thriller</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere23.custom">
-    <title lang="en">Confinement (2026)</title>
-    <desc lang="en">A recently widowed pregnant woman visits her late husband's family estate hoping to find support. Instead, she is forced to remain there until she gives birth, and disturbing events make her question whether her unborn child is cursed or her own mind is betraying her.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere22.custom">
+    <title lang="en">Spider Island (2026)</title>
+    <desc lang="en">A group of young holidaymakers heads to a sunny island expecting carefree fun. Their getaway turns into a nightmare when the island's hidden dangers threaten the group, forcing them to fight for survival.
 
-Genre: Psychological Horror, Thriller
-Cast: Nathalie Emmanuel, Claire Forlani, Ben Cura</desc>
-    <category lang="en">Psychological Horror</category>
+Genre: Horror, Thriller
+
+Director: Christopher Smith
+Cast: Rose Williams, Tim McInnerny, Avani Gregg</desc>
+    <category lang="en">Horror</category>
     <category lang="en">Thriller</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere23.custom">
@@ -5538,18 +5529,14 @@ Cast: Nathalie Emmanuel, Claire Forlani, Ben Cura</desc>
     <category lang="en">Psychological Horror</category>
     <category lang="en">Thriller</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere24.custom">
-    <title lang="en">Fall 2: Deadpoint (2026)</title>
-    <desc lang="en">Still mourning her sister Shiloh, Jax joins her sister's daring friend Luce for a dangerous climb on Thailand's Mount Kwan. A rockslide leaves the women stranded high above the ground on a narrow walkway, forcing Jax to confront grief and fear as they struggle to survive.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere23.custom">
+    <title lang="en">Confinement (2026)</title>
+    <desc lang="en">A recently widowed pregnant woman visits her late husband's family estate hoping to find support. Instead, she is forced to remain there until she gives birth, and disturbing events make her question whether her unborn child is cursed or her own mind is betraying her.
 
-Genre: Fantasy, Adventure, Family, Musical
-
-Director: Michael and Peter Spierig
-Cast: Harriet Slater, Arsema Thomas</desc>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Family</category>
-    <category lang="en">Musical</category>
+Genre: Psychological Horror, Thriller
+Cast: Nathalie Emmanuel, Claire Forlani, Ben Cura</desc>
+    <category lang="en">Psychological Horror</category>
+    <category lang="en">Thriller</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere24.custom">
     <title lang="en">Fall 2: Deadpoint (2026)</title>
@@ -5811,15 +5798,18 @@ Cast: Harriet Slater, Arsema Thomas</desc>
     <category lang="en">Family</category>
     <category lang="en">Musical</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere25.custom">
-    <title lang="en">The Love Hypothesis (2026)</title>
-    <desc lang="en">Graduate researcher Olive Smith impulsively kisses the notoriously intimidating Dr. Adam Carlsen to convince a friend she has moved on. The two agree to pretend they are dating, but their carefully calculated arrangement becomes complicated when real feelings begin to develop.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere24.custom">
+    <title lang="en">Fall 2: Deadpoint (2026)</title>
+    <desc lang="en">Still mourning her sister Shiloh, Jax joins her sister's daring friend Luce for a dangerous climb on Thailand's Mount Kwan. A rockslide leaves the women stranded high above the ground on a narrow walkway, forcing Jax to confront grief and fear as they struggle to survive.
 
-Genre: Romantic Comedy
+Genre: Fantasy, Adventure, Family, Musical
 
-Director: Claire Scanlon
-Cast: Lili Reinhart, Tom Bateman, Rachel Marsh</desc>
-    <category lang="en">Romantic Comedy</category>
+Director: Michael and Peter Spierig
+Cast: Harriet Slater, Arsema Thomas</desc>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Family</category>
+    <category lang="en">Musical</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere25.custom">
     <title lang="en">The Love Hypothesis (2026)</title>
@@ -6021,16 +6011,15 @@ Director: Claire Scanlon
 Cast: Lili Reinhart, Tom Bateman, Rachel Marsh</desc>
     <category lang="en">Romantic Comedy</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere26.custom">
-    <title lang="en">The Fix (2026)</title>
-    <desc lang="en">After the war in Afghanistan, a group of disillusioned former CIA operatives heads to Tehran in pursuit of a lucrative score. Their dangerous plan unfolds amid divided loyalties and the risks of operating in hostile territory.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere25.custom">
+    <title lang="en">The Love Hypothesis (2026)</title>
+    <desc lang="en">Graduate researcher Olive Smith impulsively kisses the notoriously intimidating Dr. Adam Carlsen to convince a friend she has moved on. The two agree to pretend they are dating, but their carefully calculated arrangement becomes complicated when real feelings begin to develop.
 
-Genre: Action Thriller, Crime
+Genre: Romantic Comedy
 
-Director: Guy Moshe
-Cast: Liam Neeson, Zachary Levi</desc>
-    <category lang="en">Action Thriller</category>
-    <category lang="en">Crime</category>
+Director: Claire Scanlon
+Cast: Lili Reinhart, Tom Bateman, Rachel Marsh</desc>
+    <category lang="en">Romantic Comedy</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere26.custom">
     <title lang="en">The Fix (2026)</title>
@@ -6252,17 +6241,16 @@ Cast: Liam Neeson, Zachary Levi</desc>
     <category lang="en">Action Thriller</category>
     <category lang="en">Crime</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere27.custom">
-    <title lang="en">Onslaught (2026)</title>
-    <desc lang="en">A unit of genetically enhanced soldiers breaks free in the desert, turning an isolated landscape into a deadly hunting ground. An Army sniper fights to protect her young daughter while facing attackers whose strength and training make escape almost impossible.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere26.custom">
+    <title lang="en">The Fix (2026)</title>
+    <desc lang="en">After the war in Afghanistan, a group of disillusioned former CIA operatives heads to Tehran in pursuit of a lucrative score. Their dangerous plan unfolds amid divided loyalties and the risks of operating in hostile territory.
 
-Genre: Action, Science Fiction, Horror
+Genre: Action Thriller, Crime
 
-Director: Adam Wingard
-Cast: Adria Arjona, Dan Stevens, Eric Wareheim</desc>
-    <category lang="en">Action</category>
-    <category lang="en">Science Fiction</category>
-    <category lang="en">Horror</category>
+Director: Guy Moshe
+Cast: Liam Neeson, Zachary Levi</desc>
+    <category lang="en">Action Thriller</category>
+    <category lang="en">Crime</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere27.custom">
     <title lang="en">Onslaught (2026)</title>
@@ -6504,16 +6492,17 @@ Cast: Adria Arjona, Dan Stevens, Eric Wareheim</desc>
     <category lang="en">Science Fiction</category>
     <category lang="en">Horror</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere28.custom">
-    <title lang="en">By Any Means (2026)</title>
-    <desc lang="en">In 1960s Mississippi, a young FBI agent investigating the murders of civil rights leaders joins forces with notorious Mafia hitman Greg Scarpa. Their unlikely alliance blurs the boundary between justice and vengeance.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere27.custom">
+    <title lang="en">Onslaught (2026)</title>
+    <desc lang="en">A unit of genetically enhanced soldiers breaks free in the desert, turning an isolated landscape into a deadly hunting ground. An Army sniper fights to protect her young daughter while facing attackers whose strength and training make escape almost impossible.
 
-Genre: Crime Thriller, Drama
+Genre: Action, Science Fiction, Horror
 
-Director: Elegance Bratton
-Cast: Yahya Abdul-Mateen II, Mark Wahlberg, Nicole Beharie, Josh Lucas, Giancarlo Esposito</desc>
-    <category lang="en">Crime Thriller</category>
-    <category lang="en">Drama</category>
+Director: Adam Wingard
+Cast: Adria Arjona, Dan Stevens, Eric Wareheim</desc>
+    <category lang="en">Action</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Horror</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere28.custom">
     <title lang="en">By Any Means (2026)</title>
@@ -6735,17 +6724,16 @@ Cast: Yahya Abdul-Mateen II, Mark Wahlberg, Nicole Beharie, Josh Lucas, Giancarl
     <category lang="en">Crime Thriller</category>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere29.custom">
-    <title lang="en">Practical Magic 2 (2026)</title>
-    <desc lang="en">Generations of women in a family of witches are still haunted by a curse that has doomed their romantic relationships for centuries. To finally break its hold, they must confront painful family secrets and decide what they are prepared to sacrifice for one another.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere28.custom">
+    <title lang="en">By Any Means (2026)</title>
+    <desc lang="en">In 1960s Mississippi, a young FBI agent investigating the murders of civil rights leaders joins forces with notorious Mafia hitman Greg Scarpa. Their unlikely alliance blurs the boundary between justice and vengeance.
 
-Genre: Fantasy, Romance, Comedy
+Genre: Crime Thriller, Drama
 
-Director: Susanne Bier
-Cast: Sandra Bullock, Nicole Kidman, Joey King, Lee Pace, Maisie Williams</desc>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Romance</category>
-    <category lang="en">Comedy</category>
+Director: Elegance Bratton
+Cast: Yahya Abdul-Mateen II, Mark Wahlberg, Nicole Beharie, Josh Lucas, Giancarlo Esposito</desc>
+    <category lang="en">Crime Thriller</category>
+    <category lang="en">Drama</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere29.custom">
     <title lang="en">Practical Magic 2 (2026)</title>
@@ -6987,16 +6975,17 @@ Cast: Sandra Bullock, Nicole Kidman, Joey King, Lee Pace, Maisie Williams</desc>
     <category lang="en">Romance</category>
     <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261030000000 +0100" stop="20261031000000 +0100" channel="skystorepremiere30.custom">
-    <title lang="en">Tony (2026)</title>
-    <desc lang="en">At nineteen, Anthony Bourdain travels to Provincetown and unexpectedly enters the hectic world of a professional restaurant kitchen. The friendships, pressure and exhilaration of his first culinary experiences set him on a path that will change his life.
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere29.custom">
+    <title lang="en">Practical Magic 2 (2026)</title>
+    <desc lang="en">Generations of women in a family of witches are still haunted by a curse that has doomed their romantic relationships for centuries. To finally break its hold, they must confront painful family secrets and decide what they are prepared to sacrifice for one another.
 
-Genre: Biography, Drama
+Genre: Fantasy, Romance, Comedy
 
-Director: Matt Johnson
-Cast: Dominic Sessa, Antonio Banderas, Emilia Jones</desc>
-    <category lang="en">Biography</category>
-    <category lang="en">Drama</category>
+Director: Susanne Bier
+Cast: Sandra Bullock, Nicole Kidman, Joey King, Lee Pace, Maisie Williams</desc>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Comedy</category>
   </programme>
   <programme start="20261031000000 +0100" stop="20261101000000 +0100" channel="skystorepremiere30.custom">
     <title lang="en">Tony (2026)</title>
@@ -7208,6 +7197,17 @@ Cast: Dominic Sessa, Antonio Banderas, Emilia Jones</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261119000000 +0100" stop="20261120000000 +0100" channel="skystorepremiere30.custom">
+    <title lang="en">Tony (2026)</title>
+    <desc lang="en">At nineteen, Anthony Bourdain travels to Provincetown and unexpectedly enters the hectic world of a professional restaurant kitchen. The friendships, pressure and exhilaration of his first culinary experiences set him on a path that will change his life.
+
+Genre: Biography, Drama
+
+Director: Matt Johnson
+Cast: Dominic Sessa, Antonio Banderas, Emilia Jones</desc>
+    <category lang="en">Biography</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20261120000000 +0100" stop="20261121000000 +0100" channel="skystorepremiere30.custom">
     <title lang="en">Tony (2026)</title>
     <desc lang="en">At nineteen, Anthony Bourdain travels to Provincetown and unexpectedly enters the hectic world of a professional restaurant kitchen. The friendships, pressure and exhilaration of his first culinary experiences set him on a path that will change his life.
 
