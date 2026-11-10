@@ -7,12 +7,12 @@
       "anchor": "2026-10-11T12:31:35+02:00",
       "confidence": "published_runtime_estimate",
       "movie": {
-        "title": "Insidious: Out of the Further",
+        "title": "Heart of the Beast",
         "year": 2026,
-        "description": "The next chapter in the Insidious horror franchise. Details of the supernatural threat and the characters' ordeal have not been reliably confirmed.",
-        "director": "",
-        "cast": "",
-        "genre": "Horror, Supernatural Thriller"
+        "description": "After a devastating plane crash, Special Forces veteran James Belmont and his combat dog Odin are stranded in the remote Alaskan wilderness. Facing extreme weather, dwindling supplies and a dangerous journey through unforgiving terrain, the pair must rely on their training and enduring bond to survive.",
+        "director": "David Ayer",
+        "cast": "Brad Pitt (James Belmont), J.K. Simmons (Watkins), Anna Lambe",
+        "genre": "Action, Adventure, Survival Thriller"
       }
     },
     "2": {
@@ -20,12 +20,12 @@
       "anchor": "2026-10-11T12:37:42+02:00",
       "confidence": "published_runtime_estimate",
       "movie": {
-        "title": "The Dog Stars",
+        "title": "Primetime",
         "year": 2026,
-        "description": "In a world devastated by a catastrophic pandemic, Hig, a pilot living at a remote airfield, has built a guarded existence alongside Bangley, a tough military survivalist. Their fragile safety is disrupted when a mysterious radio transmission offers the possibility of other survivors. Driven by grief, curiosity and the hope of human connection, Hig risks everything to fly beyond the boundaries of his isolated refuge, confronting dangers that test his instinct for survival and his faith in humanity.",
-        "director": "Ridley Scott",
-        "cast": "Jacob Elordi, Josh Brolin, Margaret Qualley, Guy Pearce, Benedict Wong, Allison Janney",
-        "genre": "Science Fiction, Post-Apocalyptic Thriller, Drama"
+        "description": "In 2006, television host Chris Hansen sets out to make history with an ambitious undercover operation for To Catch a Predator. As the stakes rise and the operation goes disastrously wrong, his pursuit of ratings and fame becomes a troubling examination of sensationalism, ambition and the limits of televised justice.",
+        "director": "Lance Oppenheim",
+        "cast": "Robert Pattinson (Chris Hansen), Skyler Gisondo (Dan Plumb), Merritt Wever (Andie Bender), Phoebe Bridgers (Del), Matthew Maher (Xavier Von Erck)",
+        "genre": "Crime, Drama, Thriller"
       }
     },
     "3": {
@@ -72,12 +72,12 @@
       "anchor": "2026-10-11T12:26:45+02:00",
       "confidence": "published_runtime_estimate",
       "movie": {
-        "title": "The Weight",
+        "title": "Resident Evil",
         "year": 2026,
-        "description": "In 1933 Oregon, Samuel Murphy is separated from his daughter and sent to a brutal work camp. Offered an early release in exchange for smuggling gold through treacherous wilderness, he faces betrayal and danger on a desperate journey home.",
-        "director": "Padraic McKinley",
-        "cast": "Ethan Hawke, Russell Crowe, Julia Jones, Austin Amelio, Avi Nash",
-        "genre": "Historical Drama, Survival Thriller"
+        "description": "Medical courier Bryan becomes trapped in a nightmarish chain of events as a seemingly ordinary delivery descends into chaos. Forced to confront horrifying dangers, he fights to survive in this new standalone interpretation of the Resident Evil universe.",
+        "director": "Zach Cregger",
+        "cast": "Austin Abrams (Bryan), Zach Cherry, Kali Reis, Paul Walter Hauser",
+        "genre": "Horror, Action, Science Fiction"
       }
     },
     "7": {
@@ -85,12 +85,12 @@
       "anchor": "2026-10-11T12:36:30+02:00",
       "confidence": "pilot",
       "movie": {
-        "title": "Love of Your Life",
+        "title": "Model Citizen",
         "year": 2026,
-        "description": "Maya, a witty and thoughtful nurse, finds herself swept into a powerful romance that changes the direction of her life. What begins as an intense personal connection leads her toward experiences and choices she could never have anticipated.",
-        "director": "Rachel Morrison",
-        "cast": "Margaret Qualley, Aaron Pierre",
-        "genre": "Romance, Drama"
+        "description": "Former police officer Steven Bay, struggling with amnesia and a fragmented past, seeks treatment while working on a secluded farm. Suspicious behavior, hostile encounters and unsettling surveillance convince him that his surroundings conceal something sinister. As his instincts return, he sets out to uncover the truth about his identity and the forces manipulating his life.",
+        "director": "Tag Mendillo",
+        "cast": "Aaron Eckhart (Steven Bay), Emmanuelle Chriqui (Gretchen Lowe), Paul Braunstein (Bud O'Neil), David Hewlett (Dr. Harris)",
+        "genre": "Science Fiction, Thriller, Mystery"
       }
     },
     "8": {
@@ -98,12 +98,12 @@
       "anchor": "2026-10-11T12:11:55+02:00",
       "confidence": "published_runtime_estimate",
       "movie": {
-        "title": "Tiny Fugitives",
+        "title": "Your Mother Your Mother Your Mother",
         "year": 2026,
-        "description": "A determined group of twelve-year-olds devises an outrageous plan to escape ordinary life and stay at summer camp forever. Their plans collide with Bob, a relentless veteran camp counselor who refuses to let them get away.",
-        "director": "Michael Lewen",
-        "cast": "Johnny Knoxville, Benjamin Pajak, Aaron D. Harris, Isa Bernal Steiner",
-        "genre": "Family Comedy, Adventure"
+        "description": "After his wife dies, Latif, a devoutly religious contract killer and father, struggles to protect his children while navigating grief, faith and the consequences of his violent profession. As dangerous figures close in across Houston, he faces impossible choices about fatherhood, survival and the life he has built.",
+        "director": "Bassam Tariq",
+        "cast": "Mahershala Ali (Latif), John Cho (Pastor Hwan), Giancarlo Esposito (Abdul Malik), Abubakr Ali (Hatty), Tiffany Boone, Tramell Tillman",
+        "genre": "Action, Crime, Drama, Thriller"
       }
     },
     "9": {
@@ -241,12 +241,12 @@
       "anchor": "2026-10-11T13:21:00+02:00",
       "confidence": "published_runtime_estimate",
       "movie": {
-        "title": "Idiots",
+        "title": "The Dog Stars",
         "year": 2026,
-        "description": "Two down-on-their-luck drivers accept what should be a straightforward job transporting a wealthy teenager to rehabilitation. Their unruly passenger derails the journey, dragging them into an increasingly outrageous series of criminal and drug-fueled disasters.",
-        "director": "Macon Blair",
-        "cast": "Dave Franco, O'Shea Jackson Jr., Mason Thames",
-        "genre": "Crime Comedy"
+        "description": "In a world devastated by a catastrophic pandemic, Hig, a pilot living at a remote airfield, has built a guarded existence alongside Bangley, a tough military survivalist. Their fragile safety is disrupted when a mysterious radio transmission offers the possibility of other survivors. Driven by grief, curiosity and the hope of human connection, Hig risks everything to fly beyond the boundaries of his isolated refuge, confronting dangers that test his instinct for survival and his faith in humanity.",
+        "director": "Ridley Scott",
+        "cast": "Jacob Elordi, Josh Brolin, Margaret Qualley, Guy Pearce, Benedict Wong, Allison Janney",
+        "genre": "Science Fiction, Post-Apocalyptic Thriller, Drama"
       }
     },
     "20": {
@@ -254,12 +254,12 @@
       "anchor": "2026-10-11T13:18:00+02:00",
       "confidence": "user_verified_runtime",
       "movie": {
-        "title": "Coyote vs. Acme",
+        "title": "The Weight",
         "year": 2026,
-        "description": "Wile E. Coyote takes the Acme Corporation to court after years of its defective products failing him in his relentless pursuit of the Road Runner. A human lawyer becomes involved in an unusual legal battle that brings cartoon chaos into the real world.",
-        "director": "Dave Green",
-        "cast": "Will Forte, John Cena, Lana Condor",
-        "genre": "Animation, Live-Action Comedy, Adventure"
+        "description": "In 1933 Oregon, Samuel Murphy is separated from his daughter and sent to a brutal work camp. Offered an early release in exchange for smuggling gold through treacherous wilderness, he faces betrayal and danger on a desperate journey home.",
+        "director": "Padraic McKinley",
+        "cast": "Ethan Hawke, Russell Crowe, Julia Jones, Austin Amelio, Avi Nash",
+        "genre": "Historical Drama, Survival Thriller"
       }
     },
     "21": {
@@ -280,12 +280,12 @@
       "anchor": "2026-10-11T13:12:00+02:00",
       "confidence": "published_runtime_estimate",
       "movie": {
-        "title": "Spider Island",
+        "title": "Ali G: Who Iz I?",
         "year": 2026,
-        "description": "A group of young holidaymakers heads to a sunny island expecting carefree fun. Their getaway turns into a nightmare when the island's hidden dangers threaten the group, forcing them to fight for survival.",
-        "director": "Christopher Smith",
-        "cast": "Rose Williams, Tim McInnerny, Avani Gregg",
-        "genre": "Horror, Thriller"
+        "description": "After discovering that his longtime girlfriend Julie is eight months pregnant, Ali G heads to America in a chaotic bid to revive his celebrity career and earn money for his growing family. His outrageous encounters with real people turn the journey into a provocative mockumentary about fame, identity and impending fatherhood.",
+        "director": "Sacha Baron Cohen",
+        "cast": "Sacha Baron Cohen (Ali G), Morgana Robinson (Julie), Alpha Miknas (Manu), Clive Russell (Malcolm 'Rocky' Atkins)",
+        "genre": "Comedy, Mockumentary"
       }
     },
     "23": {
@@ -293,12 +293,12 @@
       "anchor": "2026-10-11T12:49:00+02:00",
       "confidence": "user_verified_runtime",
       "movie": {
-        "title": "Confinement",
+        "title": "Insidious: Out of the Further",
         "year": 2026,
-        "description": "A recently widowed pregnant woman visits her late husband's family estate hoping to find support. Instead, she is forced to remain there until she gives birth, and disturbing events make her question whether her unborn child is cursed or her own mind is betraying her.",
-        "director": "",
-        "cast": "Nathalie Emmanuel, Claire Forlani, Ben Cura",
-        "genre": "Psychological Horror, Thriller"
+        "description": "Gemma, a young mother raising her daughter in her childhood home, discovers she can enter the Further, a terrifying realm inhabited by lost souls and malevolent entities. But her extraordinary ability has a dangerous consequence: she can bring its inhabitants back into the living world. As sinister forces target her family, Gemma must confront the nightmare she has unleashed.",
+        "director": "Jacob Chase",
+        "cast": "Amelia Eve (Gemma Hall), Island Austin (Maya Hall), Lin Shaye (Elise Rainier), Brandon Perea, Maisie Richardson-Sellers, Sam Spruell",
+        "genre": "Horror, Supernatural Thriller"
       }
     },
     "24": {
@@ -311,7 +311,7 @@
         "description": "Still mourning her sister Shiloh, Jax joins her sister's daring friend Luce for a dangerous climb on Thailand's Mount Kwan. A rockslide leaves the women stranded high above the ground on a narrow walkway, forcing Jax to confront grief and fear as they struggle to survive.",
         "director": "Michael and Peter Spierig",
         "cast": "Harriet Slater, Arsema Thomas",
-        "genre": "Fantasy, Adventure, Family, Musical"
+        "genre": "Survival Thriller, Adventure"
       }
     },
     "25": {
